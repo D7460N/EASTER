@@ -1,0 +1,107 @@
+# Church Stage Performance Knowledge MCP - Schema Definition
+# ----------------------------------------------------------
+# This schema defines standard front-matter fields used across
+# all documentation files within the /docs directory.
+# It enables consistent parsing, indexing, and retrieval
+# by MCP servers or other agents.
+
+version: 1.0
+schema_name: "church-stage-knowledge"
+
+# Each document's front matter (YAML) must conform to this structure.
+fields:
+
+  id:
+    type: string
+    required: true
+    description: >
+      Unique identifier for this resource, following the pattern
+      [category]/[topic]. Used for cross-referencing and API calls.
+      Example: "acting/blocking"
+
+  category:
+    type: string
+    required: true
+    enum:
+      - Introduction
+      - Roles
+      - Acting
+      - Singing
+      - Rehearsal
+      - Production
+      - Ministry
+      - Reference
+    description: >
+      Logical grouping for the resource. Used by MCP to organize
+      and query related materials.
+
+  tags:
+    type: array
+    items: string
+    required: false
+    description: >
+      List of keywords describing the content.
+      Example: [movement, direction, unity]
+
+  audience:
+    type: array
+    items:
+      type: string
+      enum: [volunteer, actor, singer, tech, director, leadership, staff, all]
+    required: false
+    description: >
+      Target readers or intended audience for this document.
+
+  summary:
+    type: string
+    required: true
+    description: >
+      One-sentence abstract describing what this file teaches or defines.
+      Used for listing, search, and preview.
+
+  scriptural_reference:
+    type: string
+    required: false
+    description: >
+      Bible reference supporting or grounding the topic.
+      Example: "1 Corinthians 14:40"
+
+  related:
+    type: array
+    items: string
+    required: false
+    description: >
+      List of related topic IDs for linking cross-references.
+
+metadata:
+  last_updated:
+    type: date
+    format: YYYY-MM-DD
+    required: false
+    description: >
+      Date of most recent substantive content update.
+  author:
+    type: string
+    required: false
+    description: >
+      Document author or contributor name.
+
+validation:
+  # Basic rules for ensuring complete metadata across the library
+  required_fields:
+    - id
+    - category
+    - summary
+  recommended_fields:
+    - tags
+    - audience
+    - scriptural_reference
+
+notes:
+  - >
+    Keep IDs lowercase with hyphens where necessary (e.g. ministry/servant-leadership).
+  - >
+    Use descriptive, human-readable summaries for quick scanning by non-technical users.
+  - >
+    The schema may later be extended with "resources" or "tools" sections
+    when the MCP server is deployed.

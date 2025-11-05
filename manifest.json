@@ -1,0 +1,65 @@
+{
+  "name": "church_stage_performance_mcp",
+  "version": "1.0.0",
+  "description": "A domain-knowledge MCP server providing structured, faith-aligned documentation on church stage performance, acting, singing, rehearsal, production, and ministry best practices.",
+  "license": "CC BY-NC-SA 4.0",
+
+  "resources": {
+    "docs": {
+      "path": "./docs",
+      "schema": "./schema.yaml",
+      "include": ["**/*.md"],
+      "type": "text/markdown",
+      "description": "Primary knowledge resources including acting, singing, stagecraft, rehearsal, and ministry guidelines."
+    }
+  },
+
+  "metadata": {
+    "maintainer": "Church Creative Arts Ministry",
+    "contact_email": "creativearts@yourchurch.org",
+    "repository": "https://github.com/yourchurch/church-stage-knowledge",
+    "last_updated": "2025-11-05",
+    "language": "en-US"
+  },
+
+  "runtime": {
+    "mcp_version": "1.0",
+    "default_encoding": "utf-8",
+    "resource_autoload": true,
+    "cache_enabled": true
+  },
+
+  "tools": {
+    "search": {
+      "description": "Search the documentation set for topics, definitions, and best practices.",
+      "endpoint": "/api/search",
+      "methods": ["GET"]
+    },
+    "define": {
+      "description": "Retrieve definitions of acting, singing, or stage terms by ID.",
+      "endpoint": "/api/define",
+      "methods": ["GET"]
+    },
+    "cross_reference": {
+      "description": "Find related topics based on 'related' field metadata in front matter.",
+      "endpoint": "/api/related",
+      "methods": ["GET"]
+    }
+  },
+
+  "security": {
+    "visibility": "internal",
+    "access": "read-only",
+    "authentication": "none",
+    "notes": "Designed for internal church and ministry training. Future versions may enable authenticated access for distributed church networks."
+  },
+
+  "deployment": {
+    "instructions": [
+      "1. Place this manifest.json and schema.yaml in the repository root.",
+      "2. Ensure all documentation files exist under ./docs with proper YAML front matter.",
+      "3. Run your MCP server pointing to this manifest file.",
+      "4. Connect your AI agent or app using the MCP client configuration referencing this repository path."
+    ]
+  }
+}
