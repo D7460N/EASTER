@@ -1,4 +1,4 @@
-# Church Stage Performance MCP
+# Church Stage Performances w/MCP
 
 ## EASTER 2025
 
