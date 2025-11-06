@@ -1,4 +1,15 @@
 # 🎭 Church Stage Performance Knowledge MCP
+<!-- NAV:START -->
+| Section | Description | Key Links |
+|----------|--------------|-----------|
+| 🎯 **Introduction** | introduction | [01_introduction](./docs/01_introduction/) → [vision.md](./docs/01_introduction/vision.md) |
+| 👥 **Roles & Teams** | 02 roles | [02_roles](./docs/02_roles/) → [director.md / producer.md](./docs/02_roles/director.md / producer.md) |
+| 🎬 **Stage Basics** | 03 basics | [03_basics](./docs/03_basics/) |
+| 🕓 **Rehearsals** | 04 rehearsal | [04_rehearsal](./docs/04_rehearsal/) → [mock-schedule.md](./docs/04_rehearsal/mock-schedule.md) |
+| 💡 **Production** | 05 production | [05_production](./docs/05_production/) |
+| 🙏 **Ministry & Leadership** | 06 ministry | [06_ministry](./docs/06_ministry/) → [purpose.md](./docs/06_ministry/purpose.md) |
+| 🧾 **Reference & Glossary** | 07 glossary | [07_glossary](./docs/07_glossary/) |
+<!-- NAV:END -->
 
 _A structured, ministry-aligned documentation and knowledge system for church productions and pageants._
 

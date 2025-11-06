@@ -16,3 +16,11 @@ This section explores theology, leadership, sustainability, and conduct for the 
 
 - [Introduction](../01_introduction/) — theological and creative vision
 - [Glossary](../07_glossary/) — supporting tools and forms
+
+| File | Focus | Description |
+|------|--------|-------------|
+| [church-roles.md](./church-roles.md) | Church Roles | Overview of how the stage ministry team fits within the wider church body and leadership structure. |
+| [code-of-conduct.md](./code-of-conduct.md) | Code Of Conduct | Behavioral and spiritual guidelines for all volunteers and staff participating in stage and production ministries. |
+| [purpose.md](./purpose.md) | Purpose | Defines the spiritual and creative purpose behind the stage and production ministry, connecting artistry to worship and discipleship. |
+| [servant-leadership.md](./servant-leadership.md) | Servant Leadership | Principles and practices of servant leadership for creative, technical, and stage ministry teams. |
+| [sustainability.md](./sustainability.md) | Sustainability | Principles for maintaining healthy, sustainable ministry rhythms that prevent burnout and nurture long-term spiritual and creative growth. |
