@@ -7,6 +7,7 @@ summary: "Guidance for church leadership on decision-making, scale, and stewards
 ---
 
 
+
 > “Plans fail for lack of counsel, but with many advisers they succeed.” — _Proverbs 15:22_
 
 # Leadership Brief: Guiding Stage Ministry Decisions
