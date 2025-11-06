@@ -55,7 +55,7 @@ def build_root_quick_nav():
         ("01_introduction", "🎯 **Introduction**", "vision.md"),
         ("02_roles",        "👥 **Roles & Teams**", "director.md / producer.md"),
         ("03_basics",       "🎬 **Stage Basics**", ""),
-        ("04_rehearsal",    "🕓 **Rehearsals**", "mock-schedule.md"),
+        ("04_rehearsal",    "🕓 **Rehearsals**", "schedule.md"),
         ("05_production",   "💡 **Production**", ""),
         ("06_ministry",     "🙏 **Ministry & Leadership**", "purpose.md"),
         ("07_glossary",     "🧾 **Reference & Glossary**", "")

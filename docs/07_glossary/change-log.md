@@ -23,7 +23,7 @@ It ensures transparency, accountability, and continuity as the ministry's docume
 |------|----------|--------------------|--------------|-----------------|
 | 2025-11-05 | v1.0 | `/docs/` Initial Release | Created initial structure for all ministry, roles, rehearsal, production, and basics documentation. | ChatGPT + Leadership Review |
 | 2025-11-06 | v1.1 | `/docs/05_production/*` | Added **cues.md**, **lighting.md**, **props.md**, and **script.md** for production workflow coverage. | ChatGPT |
-| 2025-11-07 | v1.2 | `/docs/04_rehearsal/*` | Expanded **schedule.md** with mock Easter timeline and devotionals for rehearsal integration. | ChatGPT |
+| 2025-11-07 | v1.2 | `/docs/04_rehearsal/*` | Expanded **schedule.md** with Easter timeline and devotionals for rehearsal integration. | ChatGPT |
 | 2025-11-07 | v1.3 | `/docs/06_ministry/*` | Added full ministry section (**purpose**, **servant-leadership**, **sustainability**, **code-of-conduct**, **church-roles**). | ChatGPT |
 | 2025-11-08 | v1.4 | `/docs/03_basics/*` | Completed **choreography**, **expression**, **projection**, and **stage-directions** foundational entries. | ChatGPT |
 | 2025-11-08 | v1.5 | `/manifest.json` & `/schema.yaml` | Finalized schema and MCP manifest for future server integration. | ChatGPT |
