@@ -4,7 +4,6 @@ category: Introduction
 tags: [leadership, planning, decision-making]
 audience: [pastor, director, staff]
 summary: "Guidance for church leadership on decision-making, scale, and stewardship for stage productions."
-frontMatter.content.hideFm: true
 ---
 
 > “Plans fail for lack of counsel, but with many advisers they succeed.” — _Proverbs 15:22_
