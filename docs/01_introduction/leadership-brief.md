@@ -6,6 +6,7 @@ audience: [pastor, director, staff]
 summary: "Guidance for church leadership on decision-making, scale, and stewardship for stage productions."
 ---
 
+
 > “Plans fail for lack of counsel, but with many advisers they succeed.” — _Proverbs 15:22_
 
 # Leadership Brief: Guiding Stage Ministry Decisions

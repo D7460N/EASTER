@@ -6,6 +6,7 @@ audience: [leadership, volunteers]
 summary: "Purpose and vision behind church stage productions."
 ---
 
+
 > “Whatever you do, work heartily, as for the Lord and not for men.”
 > — _Colossians 3:23_
 

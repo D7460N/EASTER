@@ -6,6 +6,7 @@ audience: [leadership, volunteers]
 summary: "Biblical foundation for creativity and the arts in worship."
 ---
 
+
 > Creativity is not decoration — it is declaration.
 
 # Theology of Art and Creativity
