@@ -8,7 +8,7 @@ DOCS = ROOT / "docs"
 # ---- Helpers ---------------------------------------------------------------
 
 def list_markdown_files(folder: Path):
-    return sorted([p for p in folder.glob("*.md") if p.name.lower() != "readme.md"])
+    return sorted([p for p in folder.glob("*.md") if p.name.lower() != "index.md"])
 
 def human_title(filename: str) -> str:
     # "stage-directions.md" -> "Stage Directions"
@@ -69,17 +69,17 @@ def build_root_quick_nav():
     rows.insert(1, "|----------|--------------|-----------|")
     return "\n".join(rows)
 
-def sync_root_readme():
-    readme = ROOT / "README.md"
-    if not readme.exists():
-        print("ERROR: README.md not found at repo root.")
+def sync_root_index():
+    index = ROOT / "index.md"
+    if not index.exists():
+        print("ERROR: index.md not found at repo root.")
         sys.exit(1)
-    content = read(readme)
+    content = read(index)
     new_table = build_root_quick_nav()
     updated = replace_between_markers(content, ROOT_START, ROOT_END, new_table)
-    write_if_changed(readme, updated)
+    write_if_changed(index, updated)
 
-# ---- Section READMEs -------------------------------------------------------
+# ---- Section indexes -------------------------------------------------------
 
 def build_section_table(section_dir: Path):
     files = list_markdown_files(section_dir)
@@ -114,29 +114,29 @@ SECTION_INTROS = {
     "07_glossary": "This section collects tools and references that support smooth ministry operation — checklists, forms, templates, and logs."
 }
 
-def ensure_section_readmes():
+def ensure_section_indexes():
     for section in sorted(p for p in DOCS.iterdir() if p.is_dir()):
-        readme = section / "README.md"
+        index = section / "index.md"
         intro = SECTION_INTROS.get(section.name, "Section overview.")
         table = build_section_table(section)
         body = f"# {section.name.replace('_',' ').replace('0','',1).title()} Overview\n\n{intro}\n\n{table}\n"
-        if not readme.exists():
-            write_if_changed(readme, body)
+        if not index.exists():
+            write_if_changed(index, body)
         else:
             # Replace table only (after the first blank line); keep custom notes if any
-            existing = read(readme)
+            existing = read(index)
             if "| File | Focus | Description |" in existing:
                 head, _sep, _rest = existing.partition("| File | Focus | Description |")
                 new_content = head.rstrip() + "\n\n" + table + "\n"
-                write_if_changed(readme, new_content)
+                write_if_changed(index, new_content)
             else:
                 # Append table if no table is found
                 new_content = existing.rstrip() + "\n\n" + table + "\n"
-                write_if_changed(readme, new_content)
+                write_if_changed(index, new_content)
 
 def main():
-    sync_root_readme()
-    ensure_section_readmes()
+    sync_root_index()
+    ensure_section_indexes()
 
 if __name__ == "__main__":
     main()
