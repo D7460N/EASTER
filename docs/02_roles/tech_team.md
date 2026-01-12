@@ -15,11 +15,13 @@ related: [production/sound, production/safety, production/collaboration]
 # Tech Team Role Guide
 
 ## Purpose
+
 The technical team ensures that every word, note, and visual element is delivered with clarity and reverence.
 Their work may be behind the scenes, but it makes the message visible and audible to everyone who attends.
 Technical ministry is both craftsmanship and worship — excellence offered to God through skill and reliability.
 
 ## Core Responsibilities
+
 - **Audio Operations** - Manage microphones, soundboard, and monitors; balance levels for clarity and comfort.
 - **Lighting & Visuals** - Program cues, maintain focus and brightness, and support the story visually.
 - **Media Support** - Operate slides, video playback, and graphics in sync with cues.
@@ -28,6 +30,7 @@ Technical ministry is both craftsmanship and worship — excellence offered to G
 - **Safety Awareness** - Follow electrical and stage safety guidelines at all times.
 
 ## Best Practices
+
 - Arrive early to power up and test all equipment before rehearsal.
 - Keep cables neatly coiled and labeled.
 - Communicate immediately if any issue arises during live performance.
@@ -36,6 +39,7 @@ Technical ministry is both craftsmanship and worship — excellence offered to G
 - Treat every action — even setting up a mic — as an act of worship.
 
 ## Communication Rhythm
+
 | Timing | Focus | Responsibility |
 |---------|--------|----------------|
 | Pre-Rehearsal | Equipment check, test run | Sound/Lighting Lead |
@@ -44,5 +48,6 @@ Technical ministry is both craftsmanship and worship — excellence offered to G
 | Post-Event | Power-down, data backup, maintenance | Tech Lead |
 
 ## Ministry Focus
+
 Technical service enables the Gospel to be heard and seen clearly.
 Through unseen diligence and excellence, the tech team glorifies God and serves both the performers and the congregation.
