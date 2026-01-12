@@ -14,10 +14,12 @@ related: [roles/director, production/safety, production/collaboration]
 # Producer Role Guide
 
 ## Purpose
+
 The producer ensures that every creative vision is supported by a realistic, organized, and sustainable plan.
 They manage the operational side of the production — budgets, schedules, communication, and volunteer coordination — allowing the director and cast to focus on ministry and artistry.
 
 ## Core Responsibilities
+
 - **Project Planning** - Establish the production calendar, rehearsal schedule, and milestones.
 - **Resource Management** - Track budgets, materials, and technical needs with stewardship and transparency.
 - **Volunteer Coordination** - Ensure each role is filled, equipped, and informed.
@@ -26,6 +28,7 @@ They manage the operational side of the production — budgets, schedules, commu
 - **Post-Event Review** - Archive documents, collect feedback, and prepare reports for leadership.
 
 ## Best Practices
+
 - Keep documentation current — schedules, rosters, and budgets.
 - Create backup plans for key roles, props, and technical elements.
 - Communicate early and often; clarity prevents burnout.
@@ -34,6 +37,7 @@ They manage the operational side of the production — budgets, schedules, commu
 - Treat every logistical task as ministry — service that enables worship.
 
 ## Communication Rhythm
+
 | Area | Frequency | Focus |
 |-------|------------|--------|
 | Leadership Sync | Weekly | Budget, scope, resource updates |
@@ -42,4 +46,5 @@ They manage the operational side of the production — budgets, schedules, commu
 | Debrief & Archive | Post-production | Feedback and documentation |
 
 ## Stewardship Principle
+
 Producers manage details not for control, but for care — ensuring that creative ministry is sustainable, safe, and faithful to the church's calling.
