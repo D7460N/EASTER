@@ -14,10 +14,12 @@ related: [roles/choral-director, production/sound, rehearsal/etiquette]
 # Singer Role Guide
 
 ## Purpose
+
 Singers proclaim the message of Christ through melody, harmony, and presence.
 Their calling is to minister, not perform — using voice and heart together to lead others into worship and understanding of God's story.
 
 ## Core Responsibilities
+
 - **Preparation** - Learn assigned songs, harmonies, and cues before each rehearsal.
 - **Participation** - Arrive on time, warmed up, and ready to contribute with humility.
 - **Listening** - Blend your voice with others; prioritize unity over individual tone.
@@ -26,6 +28,7 @@ Their calling is to minister, not perform — using voice and heart together to 
 - **Collaboration** - Work closely with the Choral Director and Tech Team for mic use, stage placement, and sound balance.
 
 ## Best Practices
+
 - Warm up before arriving to rehearsal.
 - Hydrate throughout the day; avoid dairy or heavy foods before singing.
 - Keep your posture open — shoulders relaxed, chest lifted, and grounded stance.
@@ -34,6 +37,7 @@ Their calling is to minister, not perform — using voice and heart together to 
 - Remember: your role is both musical and pastoral.
 
 ## Rehearsal & Performance Conduct
+
 | Phase | Focus | Notes |
 |-------|--------|-------|
 | Warm-Up | Breathing, range expansion | Follow choral-director guidance |
@@ -42,5 +46,6 @@ Their calling is to minister, not perform — using voice and heart together to 
 | Performance | Worship through service | Focus on message, not self |
 
 ## Ministry Focus
+
 Singers are storytellers of grace.
 Each lyric becomes testimony, and each harmony a reflection of the Church's unity in Christ.
