@@ -14,10 +14,12 @@ related: [roles/actors, rehearsal/etiquette, production/collaboration]
 # Director Role Guide
 
 ## Purpose
+
 The director shepherds the creative and spiritual vision of each production.
 They ensure every performance communicates the Gospel clearly while nurturing the growth, unity, and confidence of the team.
 
 ## Core Responsibilities
+
 - **Vision Casting** - Define the message, tone, and flow of each production in alignment with church leadership.
 - **Communication** - Provide clear expectations, updates, and direction to all volunteers and departments.
 - **Coordination** - Oversee collaboration between acting, singing, tech, and pastoral teams.
@@ -26,6 +28,7 @@ They ensure every performance communicates the Gospel clearly while nurturing th
 - **Evaluation & Growth** - Conduct debriefs after events; celebrate wins and identify areas for improvement.
 
 ## Best Practices
+
 - Begin and end every rehearsal with prayer.
 - Keep feedback specific, kind, and actionable.
 - Balance creative excellence with volunteer energy and capacity.
@@ -34,6 +37,7 @@ They ensure every performance communicates the Gospel clearly while nurturing th
 - Encourage rest periods after large productions.
 
 ## Communication Rhythm
+
 | Meeting Type | Frequency | Purpose |
 |---------------|------------|----------|
 | Creative Planning | Pre-production | Establish vision, script, and resources |
@@ -42,5 +46,6 @@ They ensure every performance communicates the Gospel clearly while nurturing th
 | Post-Production Review | After event | Reflect, learn, and celebrate |
 
 ## Leadership Character
+
 A director leads through humility, service, and vision.
 They are both artist and shepherd — guiding others to glorify God through unity and excellence.
