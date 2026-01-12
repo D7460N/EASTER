@@ -3,7 +3,9 @@ title: EASTER
 ---
 
 # 🎭 Church Stage Performance Knowledge MCP
+
 <!-- NAV:START -->
+
 | Section | Description | Key Links |
 |----------|--------------|-----------|
 | 🎯 **Introduction** | introduction | [Vision](./docs/01_introduction/vision.md) |
@@ -13,6 +15,7 @@ title: EASTER
 | 💡 **Production** | 05 production | — |
 | 🙏 **Ministry & Leadership** | 06 ministry | [Purpose](./docs/06_ministry/purpose.md) |
 | 🧾 **Reference & Glossary** | 07 glossary | — |
+
 <!-- NAV:END -->
 
 _A structured, ministry-aligned documentation and knowledge system for church productions and pageants._
@@ -67,6 +70,7 @@ Each folder represents a domain of ministry, production, or training.
 ```
 
 **Core Configuration Files**
+
 | File | Purpose |
 |------|----------|
 | `schema.yaml` | Defines metadata and validation rules for all documentation. |
