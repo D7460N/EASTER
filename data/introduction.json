@@ -1,0 +1,64 @@
+{
+  "id": "introduction",
+  "name": "Introduction",
+  "description": "Vision, mission, and leadership guidance for the pageant ministry",
+  "icon": "🎯",
+  "document_count": 3,
+  "documents": [
+    {
+      "filename": "leadership-brief",
+      "id": "intro/leadership-brief",
+      "title": "Leadership Brief",
+      "category": "Introduction",
+      "summary": "Guidance for church leadership on decision-making, scale, and stewardship for stage productions.",
+      "tags": [
+        "leadership",
+        "planning",
+        "decision-making"
+      ],
+      "audience": [
+        "pastor",
+        "director",
+        "staff"
+      ],
+      "content": "> “Plans fail for lack of counsel, but with many advisers they succeed.” — _Proverbs 15:22_\n\n# Leadership Brief: Guiding Stage Ministry Decisions\n\n## Purpose\n\nTo help pastors and ministry leaders make informed, prayerful decisions about pageant scope, volunteer load, and creative direction.\n\n## Decision Priorities\n\n1. **Mission Alignment** - Every performance must reinforce the church's vision and theology.\n2. **Stewardship** - Consider budget, facility use, and volunteer capacity before committing to scope or schedule.\n3. **Safety & Sustainability** - Favor smaller, consistent excellence over large, exhausting undertakings.\n4. **Accessibility** - Aim for clarity of message; avoid complexity that distracts from the Gospel.\n\n## Leadership Checklist\n\n- [ ] Script/theme approved by pastoral team\n- [ ] Budget & resources confirmed\n- [ ] Volunteer coordinator assigned\n- [ ] Safety plan reviewed\n- [ ] Post-event evaluation scheduled",
+      "metadata": {}
+    },
+    {
+      "filename": "theology-of-art",
+      "id": "ministry/theology-of-art",
+      "title": "Theology Of Art",
+      "category": "Ministry",
+      "summary": "Biblical foundation for creativity and the arts in worship.",
+      "tags": [
+        "theology",
+        "creativity",
+        "purpose"
+      ],
+      "audience": [
+        "leadership",
+        "volunteers"
+      ],
+      "content": "> Creativity is not decoration — it is declaration.\n\n# Theology of Art and Creativity\n\n## God as Creator\n\nArt exists because God is creative.\nFrom Genesis 1 onward, creation reveals design, order, and beauty that reflect His nature.\n\n## Creativity as Worship\n\nWhen we paint, act, sing, or build sets, we echo the Creator.\nOur goal is not self-expression but God-expression — revealing His truth through beauty.\n\n## Biblical References\n\n- _Exodus 31:1-5_ - Bezalel filled with the Spirit to craft the tabernacle.\n- _Psalm 33:3_ - “Sing to Him a new song.”\n- _Colossians 3:23_ - “Whatever you do, work heartily, as for the Lord.”\n\n## Application\n\nEvery creative act in ministry should:\n\n1. Glorify God\n2. Edify the Church\n3. Invite others into worship",
+      "metadata": {}
+    },
+    {
+      "filename": "vision",
+      "id": "intro/vision",
+      "title": "Vision",
+      "category": "Introduction",
+      "summary": "Purpose and vision behind church stage productions.",
+      "tags": [
+        "purpose",
+        "ministry",
+        "overview"
+      ],
+      "audience": [
+        "leadership",
+        "volunteers"
+      ],
+      "content": "> “Whatever you do, work heartily, as for the Lord and not for men.”\n> — _Colossians 3:23_\n\n# Vision and Purpose\n\nEvery performance we create is a ministry — a visible act of worship that communicates God's story.\nOur goal is not entertainment but revelation: that through story, song, and movement, audiences encounter truth, grace, and hope.\n\n## Why We Perform\n\n- To **glorify God** with the gifts He has entrusted to us.\n- To **teach biblical truth** through creative expression.\n- To **unify** diverse volunteers under one mission: sharing the Gospel.\n- To **serve** our congregation and community with excellence and humility.",
+      "metadata": {}
+    }
+  ]
+}

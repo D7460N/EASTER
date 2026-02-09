@@ -1,0 +1,232 @@
+{
+  "id": "roles",
+  "name": "Roles & Teams",
+  "description": "Responsibilities and expectations for all cast and crew members",
+  "icon": "👥",
+  "document_count": 9,
+  "documents": [
+    {
+      "filename": "actors",
+      "id": "roles/actors",
+      "title": "Actors",
+      "category": "Roles",
+      "summary": "Expectations and best practices for volunteer actors.",
+      "tags": [
+        "acting",
+        "volunteer",
+        "character"
+      ],
+      "audience": [
+        "actor",
+        "director"
+      ],
+      "content": "> “Each of you should use whatever gift you have received to serve others.”\n> — *1 Peter 4:10*\n\n# Actor Role Guide\n\n## Purpose\n\nActors bring the script to life through emotion, movement, and truthfulness.\nTheir goal is to tell the story faithfully — not to draw attention to themselves but to the message.\n\n## Expectations\n\n- Arrive prepared, on time, and ready to serve.\n- Respect the director's vision and final decisions.\n- Learn your lines, cues, and blocking early.\n- Keep your focus during rehearsal — avoid side conversations.\n- Pray before and after each rehearsal.\n\n## Best Practices\n\n- Develop your **character's motivation** — why they speak or move as they do.\n- Use **projection** and **clear diction** so every word is understood.\n- Remember the audience is not your focus — the *message* is.",
+      "metadata": {}
+    },
+    {
+      "filename": "choral-director",
+      "id": "roles/choral-director",
+      "title": "Choral Director",
+      "category": "Roles",
+      "summary": "Responsibilities and ministry practices for leading choir and vocal ensembles in church stage productions.",
+      "tags": [
+        "music",
+        "choir",
+        "leadership",
+        "worship",
+        "harmony"
+      ],
+      "audience": [
+        "choral-director",
+        "singer",
+        "leadership"
+      ],
+      "content": "> “Sing to Him a new song; play skillfully, and shout for joy.”\n> — *Psalm 33:3*\n\n# Choral Director Role Guide\n\n## Purpose\n\nThe choral director leads vocal teams in worshipful, unified expression.\nTheir role bridges musical precision and ministry purpose — cultivating voices that proclaim truth beautifully and in harmony with one another.\n\n## Core Responsibilities\n\n- **Musical Direction** - Select, arrange, and rehearse choral pieces in collaboration with the Director and Worship Pastor.\n- **Vocal Training** - Teach correct breathing, diction, blending, and tone balance suited to each ensemble's range and ability.\n- **Spiritual Leadership** - Encourage prayerful preparation and remind singers that ministry comes before performance.\n- **Rehearsal Management** - Plan efficient rehearsals with warm-ups, sectionals, and run-throughs.\n- **Collaboration** - Coordinate with the sound and tech teams for microphone placement, dynamics, and cue timing.\n- **Performance Readiness** - Ensure every member knows their entrances, harmonies, and stage posture.\n\n## Best Practices\n\n- Choose music that fits the congregation's voice and the message of the production.\n- Foster a culture of encouragement over criticism.\n- Teach singers to listen to one another, not compete for volume.\n- Balance vocal excellence with heart posture — ministry always outweighs performance.\n- Keep communication open with the Director, Producer, and Tech Team.\n- Record rehearsals for singers to review harmonies and timing.\n\n## Rehearsal Rhythm\n\n| Phase | Focus | Typical Duration |\n|--------|--------|------------------|\n| Warm-Up | Breathing, pitch matching, unison blend | 10 minutes |\n| Sectionals | Sopranos/Altos/Tenors/Basses | 20-30 minutes |\n| Full Ensemble | Balance, expression, cue integration | 30-40 minutes |\n| Devotional & Prayer | Scripture reflection, gratitude | 5-10 minutes |\n\n## Heart of the Ministry\n\nThe choir's purpose is to proclaim God's Word through song.\nThe choral director models humility, discipline, and joy — leading by example both musically and spiritually.",
+      "metadata": {},
+      "scriptural_reference": "Psalm 33:3",
+      "related": [
+        "roles/singers",
+        "production/sound",
+        "ministry/servant-leadership"
+      ]
+    },
+    {
+      "filename": "director",
+      "id": "roles/director",
+      "title": "Director",
+      "category": "Roles",
+      "summary": "Responsibilities and best practices for directing church stage productions with excellence and humility.",
+      "tags": [
+        "leadership",
+        "direction",
+        "communication",
+        "coordination"
+      ],
+      "audience": [
+        "director",
+        "leadership",
+        "staff"
+      ],
+      "content": "> “Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.”\n> — *Philippians 2:3-4*\n\n# Director Role Guide\n\n## Purpose\n\nThe director shepherds the creative and spiritual vision of each production.\nThey ensure every performance communicates the Gospel clearly while nurturing the growth, unity, and confidence of the team.\n\n## Core Responsibilities\n\n- **Vision Casting** - Define the message, tone, and flow of each production in alignment with church leadership.\n- **Communication** - Provide clear expectations, updates, and direction to all volunteers and departments.\n- **Coordination** - Oversee collaboration between acting, singing, tech, and pastoral teams.\n- **Rehearsal Leadership** - Plan rehearsals, set pacing, and ensure efficient use of time.\n- **Pastoral Sensitivity** - Address personal or spiritual needs within the team with gentleness and care.\n- **Evaluation & Growth** - Conduct debriefs after events; celebrate wins and identify areas for improvement.\n\n## Best Practices\n\n- Begin and end every rehearsal with prayer.\n- Keep feedback specific, kind, and actionable.\n- Balance creative excellence with volunteer energy and capacity.\n- Foster an atmosphere of grace, not performance anxiety.\n- Document all decisions (blocking, cues, cast lists) for transparency and reproducibility.\n- Encourage rest periods after large productions.\n\n## Communication Rhythm\n\n| Meeting Type | Frequency | Purpose |\n|---------------|------------|----------|\n| Creative Planning | Pre-production | Establish vision, script, and resources |\n| Department Leads | Weekly | Coordinate across music, tech, acting |\n| Rehearsal Notes | After each session | Address updates and morale |\n| Post-Production Review | After event | Reflect, learn, and celebrate |\n\n## Leadership Character\n\nA director leads through humility, service, and vision.\nThey are both artist and shepherd — guiding others to glorify God through unity and excellence.",
+      "metadata": {},
+      "scriptural_reference": "Philippians 2:3-4",
+      "related": [
+        "roles/actors",
+        "rehearsal/etiquette",
+        "production/collaboration"
+      ]
+    },
+    {
+      "filename": "onboarding",
+      "id": "roles/onboarding",
+      "title": "Onboarding",
+      "category": "Roles",
+      "summary": "Step-by-step path for new volunteers joining the stage ministry.",
+      "tags": [
+        "training",
+        "onboarding",
+        "volunteers"
+      ],
+      "audience": [
+        "new-volunteer",
+        "director"
+      ],
+      "content": "> “Let all things be done for building up.” — *1 Corinthians 14:26*\n\n# Volunteer Onboarding Path\n\n## Step 1 - Introduction\n\nAttend a brief orientation covering our mission, expectations, and ministry philosophy.\n\n## Step 2 - Application\n\nComplete the volunteer form and background check (if applicable). Indicate preferred areas: acting, singing, tech, support.\n\n## Step 3 - Interview & Placement\n\nMeet with the director or ministry lead to discuss gifting, availability, and comfort level.\n\n## Step 4 - Training\n\nParticipate in at least one training rehearsal or tech workshop before serving.\n\n## Step 5 - Serve & Reflect\n\nBegin rehearsals, stay teachable, and share feedback after each production cycle.",
+      "metadata": {}
+    },
+    {
+      "filename": "producer",
+      "id": "roles/producer",
+      "title": "Producer",
+      "category": "Roles",
+      "summary": "Guidelines for producers overseeing operations, logistics, and resource management for church stage productions.",
+      "tags": [
+        "organization",
+        "logistics",
+        "planning",
+        "stewardship"
+      ],
+      "audience": [
+        "producer",
+        "leadership",
+        "staff"
+      ],
+      "content": "> “Now it is required that those who have been given a trust must prove faithful.”\n> — *1 Corinthians 4:2*\n\n# Producer Role Guide\n\n## Purpose\n\nThe producer ensures that every creative vision is supported by a realistic, organized, and sustainable plan.\nThey manage the operational side of the production — budgets, schedules, communication, and volunteer coordination — allowing the director and cast to focus on ministry and artistry.\n\n## Core Responsibilities\n\n- **Project Planning** - Establish the production calendar, rehearsal schedule, and milestones.\n- **Resource Management** - Track budgets, materials, and technical needs with stewardship and transparency.\n- **Volunteer Coordination** - Ensure each role is filled, equipped, and informed.\n- **Communication Hub** - Serve as the primary link between church leadership, departments, and volunteers.\n- **Risk & Safety Oversight** - Confirm safety checklists, emergency procedures, and compliance with church policies.\n- **Post-Event Review** - Archive documents, collect feedback, and prepare reports for leadership.\n\n## Best Practices\n\n- Keep documentation current — schedules, rosters, and budgets.\n- Create backup plans for key roles, props, and technical elements.\n- Communicate early and often; clarity prevents burnout.\n- Support the director's creative vision while safeguarding the team's capacity.\n- Model calm under pressure and gratitude in every interaction.\n- Treat every logistical task as ministry — service that enables worship.\n\n## Communication Rhythm\n\n| Area | Frequency | Focus |\n|-------|------------|--------|\n| Leadership Sync | Weekly | Budget, scope, resource updates |\n| Department Coordination | Bi-weekly | Cross-team needs and timing |\n| Volunteer Updates | As needed | Reminders, changes, encouragement |\n| Debrief & Archive | Post-production | Feedback and documentation |\n\n## Stewardship Principle\n\nProducers manage details not for control, but for care — ensuring that creative ministry is sustainable, safe, and faithful to the church's calling.",
+      "metadata": {},
+      "scriptural_reference": "1 Corinthians 4:2",
+      "related": [
+        "roles/director",
+        "production/safety",
+        "production/collaboration"
+      ]
+    },
+    {
+      "filename": "props-team",
+      "id": "roles/props-team",
+      "title": "Props Team",
+      "category": "Roles",
+      "summary": "Guidelines for the props team responsible for preparing, managing, and caring for all physical elements used in church stage productions.",
+      "tags": [
+        "props",
+        "stagecraft",
+        "organization",
+        "stewardship",
+        "backstage"
+      ],
+      "audience": [
+        "volunteer",
+        "tech",
+        "director"
+      ],
+      "content": "> “But everything should be done in a fitting and orderly way.”\n> — *1 Corinthians 14:40*\n\n# Props Team Role Guide\n\n## Purpose\n\nThe props team supports storytelling by managing every physical item that appears on stage.\nTheir work ensures scenes flow smoothly, transitions happen safely, and the environment reflects both excellence and reverence.\nOrderly props management prevents distraction and protects the focus of worship.\n\n## Core Responsibilities\n\n- **Preparation** - Source, build, or borrow all props listed in the script or director's notes.\n- **Organization** - Label and store items in clearly marked bins or tables backstage.\n- **Rehearsal Support** - Attend run-throughs to learn cues, timing, and placement.\n- **Placement & Reset** - Position props before each scene and reset them after each performance.\n- **Stewardship** - Care for all materials, return borrowed items, and avoid waste.\n- **Safety** - Ensure all items are secure, clean, and safe to handle on stage.\n\n## Best Practices\n\n- Keep a **Props Inventory Sheet** with location, description, and owner of each item.\n- Use consistent labeling (e.g., colored tape or printed tags).\n- Test movable items (doors, tables, containers) before every show.\n- Store fragile or hazardous items separately.\n- Communicate promptly with the Director or Stage Manager about any missing or damaged props.\n- After the final performance, pack and store items for future use.\n\n## Communication Rhythm\n\n| Timing | Focus | Responsibility |\n|---------|--------|----------------|\n| Pre-Rehearsal | Inventory check, prop sourcing | Props Lead |\n| During Rehearsal | Cue timing, placement practice | Props Assistants |\n| Performance | Scene resets and backstage flow | All team members |\n| Post-Event | Clean-up, documentation, returns | Props Lead |\n\n## Ministry Focus\n\nEvery object on stage should serve the message of Christ.\nWhen handled with care and purpose, props become silent witnesses that support the story of redemption.",
+      "metadata": {},
+      "scriptural_reference": "1 Corinthians 14:40",
+      "related": [
+        "production/safety",
+        "production/backstage",
+        "roles/director"
+      ]
+    },
+    {
+      "filename": "script-writer",
+      "id": "roles/script-writer",
+      "title": "Script Writer",
+      "category": "Roles",
+      "summary": "Guidelines for crafting Christ-centered, theologically faithful scripts for church stage productions.",
+      "tags": [
+        "writing",
+        "storytelling",
+        "scripture",
+        "creativity",
+        "theology"
+      ],
+      "audience": [
+        "writer",
+        "director",
+        "leadership"
+      ],
+      "content": "> “All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.”\n> — *2 Timothy 3:16-17*\n\n# Script Writer Role Guide\n\n## Purpose\n\nThe Script Writer shapes the story that becomes the heartbeat of each production.\nTheir words guide movement, music, and message — weaving biblical truth into dramatic or musical form that the congregation can understand, feel, and remember.\n\n## Core Responsibilities\n\n- **Biblical Integrity** - Ensure all dialogue, narration, and themes are faithful to Scripture.\n- **Creative Expression** - Develop engaging narratives that communicate eternal truths clearly and emotionally.\n- **Collaboration** - Work with the Director, Producer, and Pastoral Team to confirm alignment with theological and practical goals.\n- **Formatting** - Write in clear stage format (character, cue, note) for ease of rehearsal and technical planning.\n- **Revision** - Accept feedback with humility and adjust to fit timing, audience, and production capacity.\n- **Archiving** - Maintain digital copies for reuse and reference in future productions.\n\n## Best Practices\n\n- Begin every writing session with prayer for clarity and humility.\n- Keep Scripture at the center — every line should point to Christ, not character.\n- Use plain, relatable language that connects with a multi-generational audience.\n- Include stage and lighting notes only where necessary.\n- Respect production limitations — write within available cast, space, and time.\n- Review the final draft with pastoral leadership before distribution.\n\n## Writing Workflow\n\n| Stage | Focus | Collaborators |\n|--------|--------|----------------|\n| Concept | Theme, Scripture basis, tone | Pastor, Director |\n| Outline | Scene flow, emotional arc | Director, Producer |\n| Draft | Dialogue, cues, formatting | Writer |\n| Review | Theology and flow check | Pastor, Director |\n| Final | Distribution and read-through | Cast, Tech |\n\n## Ministry Focus\n\nEvery script should move hearts toward Christ.\nA well-written scene is not about applause — it's about revelation.\nThe Script Writer's words become instruments of grace that outlive the performance itself.",
+      "metadata": {},
+      "scriptural_reference": "2 Timothy 3:16-17",
+      "related": [
+        "intro/vision",
+        "ministry/theology-of-art",
+        "roles/director"
+      ]
+    },
+    {
+      "filename": "singers",
+      "id": "roles/singers",
+      "title": "Singers",
+      "category": "Roles",
+      "summary": "Expectations and spiritual guidance for singers serving in church stage productions or choirs.",
+      "tags": [
+        "music",
+        "worship",
+        "choir",
+        "harmony",
+        "ministry"
+      ],
+      "audience": [
+        "singer",
+        "choral-director",
+        "volunteer"
+      ],
+      "content": "> “Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.”\n> — *Colossians 3:16*\n\n# Singer Role Guide\n\n## Purpose\n\nSingers proclaim the message of Christ through melody, harmony, and presence.\nTheir calling is to minister, not perform — using voice and heart together to lead others into worship and understanding of God's story.\n\n## Core Responsibilities\n\n- **Preparation** - Learn assigned songs, harmonies, and cues before each rehearsal.\n- **Participation** - Arrive on time, warmed up, and ready to contribute with humility.\n- **Listening** - Blend your voice with others; prioritize unity over individual tone.\n- **Expression** - Convey emotion that supports the message, not distracts from it.\n- **Spiritual Readiness** - Pray over lyrics and internalize their biblical truth.\n- **Collaboration** - Work closely with the Choral Director and Tech Team for mic use, stage placement, and sound balance.\n\n## Best Practices\n\n- Warm up before arriving to rehearsal.\n- Hydrate throughout the day; avoid dairy or heavy foods before singing.\n- Keep your posture open — shoulders relaxed, chest lifted, and grounded stance.\n- Watch the director's cues at all times; maintain eye contact when possible.\n- Encourage others and avoid self-critique during worship moments.\n- Remember: your role is both musical and pastoral.\n\n## Rehearsal & Performance Conduct\n\n| Phase | Focus | Notes |\n|-------|--------|-------|\n| Warm-Up | Breathing, range expansion | Follow choral-director guidance |\n| Sectional | Learn harmony and phrasing | Listen for tonal unity |\n| Ensemble | Blend dynamics and cues | Adjust volume to balance |\n| Performance | Worship through service | Focus on message, not self |\n\n## Ministry Focus\n\nSingers are storytellers of grace.\nEach lyric becomes testimony, and each harmony a reflection of the Church's unity in Christ.",
+      "metadata": {},
+      "scriptural_reference": "Colossians 3:16",
+      "related": [
+        "roles/choral-director",
+        "production/sound",
+        "rehearsal/etiquette"
+      ]
+    },
+    {
+      "filename": "tech_team",
+      "id": "roles/tech_team",
+      "title": "Tech_Team",
+      "category": "Roles",
+      "summary": "Responsibilities and best practices for the technical production team serving in church stage performances.",
+      "tags": [
+        "technology",
+        "production",
+        "audio",
+        "lighting",
+        "service"
+      ],
+      "audience": [
+        "tech",
+        "volunteer",
+        "leadership"
+      ],
+      "content": "> “If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ.”\n> — *1 Peter 4:11*\n\n\n# Tech Team Role Guide\n\n## Purpose\n\nThe technical team ensures that every word, note, and visual element is delivered with clarity and reverence.\nTheir work may be behind the scenes, but it makes the message visible and audible to everyone who attends.\nTechnical ministry is both craftsmanship and worship — excellence offered to God through skill and reliability.\n\n## Core Responsibilities\n\n- **Audio Operations** - Manage microphones, soundboard, and monitors; balance levels for clarity and comfort.\n- **Lighting & Visuals** - Program cues, maintain focus and brightness, and support the story visually.\n- **Media Support** - Operate slides, video playback, and graphics in sync with cues.\n- **System Stewardship** - Maintain equipment, cables, batteries, and storage with care.\n- **Rehearsal Integration** - Attend key rehearsals to learn cues and test timing.\n- **Safety Awareness** - Follow electrical and stage safety guidelines at all times.\n\n## Best Practices\n\n- Arrive early to power up and test all equipment before rehearsal.\n- Keep cables neatly coiled and labeled.\n- Communicate immediately if any issue arises during live performance.\n- Label and store all gear in designated areas after use.\n- Create redundant backups for essential media and cues.\n- Treat every action — even setting up a mic — as an act of worship.\n\n## Communication Rhythm\n\n| Timing | Focus | Responsibility |\n|---------|--------|----------------|\n| Pre-Rehearsal | Equipment check, test run | Sound/Lighting Lead |\n| During Rehearsal | Cue testing, adjustment | All tech volunteers |\n| Performance | Live monitoring and issue response | Assigned operator |\n| Post-Event | Power-down, data backup, maintenance | Tech Lead |\n\n## Ministry Focus\n\nTechnical service enables the Gospel to be heard and seen clearly.\nThrough unseen diligence and excellence, the tech team glorifies God and serves both the performers and the congregation.",
+      "metadata": {},
+      "scriptural_reference": "1 Peter 4:11",
+      "related": [
+        "production/sound",
+        "production/safety",
+        "production/collaboration"
+      ]
+    }
+  ]
+}
