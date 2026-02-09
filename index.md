@@ -74,6 +74,19 @@ Each folder represents a domain of ministry, production, or training.
 | `schema.yaml` | Defines metadata and validation rules for all documentation. |
 | `manifest.json` | MCP manifest that connects resources and schemas for server integration. |
 
+**Static JSON Data**
+
+All documentation is also available as structured JSON files for building UIs and applications:
+
+| Resource | Purpose |
+|----------|----------|
+| `/data/index.json` | Master index with categories and navigation |
+| `/data/{category}.json` | Individual category files with full content |
+| `/data/README.md` | Complete API documentation and usage examples |
+| `/data/example.html` | Working example UI demonstrating JSON consumption |
+
+👉 See [`/data/README.md`](./data/README.md) for detailed JSON structure and integration examples.
+
 ---
 
 ## ⚙️ Quick Start for Ministry Leaders
@@ -102,6 +115,52 @@ Teach and model the heart of service through `/docs/06_ministry/servant-leadersh
 ### 6. Use Tools and Checklists
 
 Simplify operations with `/docs/07_glossary/checklists.md`, `/docs/07_glossary/templates.md`, and `/docs/07_glossary/feedback.md`.
+
+---
+
+## 📊 JSON Data for UI Development
+
+All documentation is available as **static JSON files** for building custom interfaces, mobile apps, or web applications:
+
+### Quick Access
+- **Master Index:** `/data/index.json` - Navigation, categories, and statistics
+- **Category Data:** `/data/{category}.json` - Complete content by category
+- **Example UI:** `/data/example.html` - Working demonstration
+
+### Categories Available
+| Category | Documents | File |
+|----------|-----------|------|
+| 🎯 Introduction | 3 | `introduction.json` |
+| 👥 Roles & Teams | 9 | `roles.json` |
+| 🎬 Stage Basics | 5 | `basics.json` |
+| 🕓 Rehearsals | 5 | `rehearsal.json` |
+| 💡 Production | 8 | `production.json` |
+| 🙏 Ministry & Leadership | 5 | `ministry.json` |
+| 🧾 Reference & Glossary | 4 | `glossary.json` |
+
+### Usage Examples
+
+```javascript
+// Load the master index
+fetch('/data/index.json')
+  .then(res => res.json())
+  .then(index => {
+    console.log(`${index.statistics.total_documents} documents in ${index.statistics.total_categories} categories`);
+  });
+
+// Load a specific category
+fetch('/data/roles.json')
+  .then(res => res.json())
+  .then(category => {
+    category.documents.forEach(doc => {
+      console.log(`${doc.title}: ${doc.summary}`);
+    });
+  });
+```
+
+📖 **Full Documentation:** See [`/data/README.md`](./data/README.md) for complete JSON structure, API examples, and integration patterns.
+
+🎨 **Live Demo:** Open `/data/example.html` in a browser to see the JSON data in action.
 
 ---
 
