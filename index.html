@@ -24,25 +24,25 @@
         <app-logo>EASTER 🎭</app-logo>
       </header>
       <nav>
-        <label>
+        <label onclick="runPipeline('./data/introduction.json', document)">
           🎯 Introduction
-          <input type="radio" aria-hidden="true" name="nav">
+          <input type="radio" aria-hidden="true" name="nav" value="./data/introduction.json">
         </label>
-        <label>
+        <label onclick="runPipeline('./data/roles.json', document)">
           👥 Roles & Teams
-          <input type="radio" aria-hidden="true" name="nav">
+          <input type="radio" aria-hidden="true" name="nav" value="./data/roles.json">
         </label>
-        <label>
+        <label onclick="runPipeline('./data/basics.json', document)">
           🎬 Stage Basics
-          <input type="radio" aria-hidden="true" name="nav">
+          <input type="radio" aria-hidden="true" name="nav" value="./data/basics.json">
         </label>
-        <label>
+        <label onclick="runPipeline('./data/rehearsal.json', document)">
           🕓 Rehearsals
-          <input type="radio" aria-hidden="true" name="nav">
+          <input type="radio" aria-hidden="true" name="nav" value="./data/rehearsal.json">
         </label>
-        <label>
+        <label onclick="runPipeline('./data/production.json', document)">
           💡 Production
-          <input type="radio" aria-hidden="true" name="nav">
+          <input type="radio" aria-hidden="true" name="nav" value="./data/production.json">
         </label>
       </nav>
       <main>
