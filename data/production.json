@@ -1,0 +1,204 @@
+{
+  "id": "production",
+  "name": "Production",
+  "description": "Technical and backstage operations: lighting, cues, sound, and props",
+  "icon": "💡",
+  "document_count": 8,
+  "documents": [
+    {
+      "filename": "backstage",
+      "id": "production/backstage",
+      "title": "Backstage",
+      "category": "Production",
+      "summary": "Guidelines for backstage operations that support smooth, safe, and reverent performances.",
+      "tags": [
+        "backstage",
+        "organization",
+        "cues",
+        "safety",
+        "discipline"
+      ],
+      "audience": [
+        "stage-manager",
+        "tech",
+        "volunteer"
+      ],
+      "content": "> “But everything should be done in a fitting and orderly way.”\n> — _1 Corinthians 14:40_\n\n# Backstage Operations\n\n## Purpose\n\nThe backstage area is the unseen heart of the production — where coordination, discipline, and service make the visible story possible.\nA well-managed backstage honors God through order and humility, allowing the message on stage to shine without distraction or delay.\n\n## Core Principles\n\n1. **Reverence** - Treat backstage as an extension of worship, not casual space.\n2. **Silence & Focus** - Maintain quiet; whispers and footsteps carry to the audience.\n3. **Orderliness** - Keep props, cables, and costumes in their designated areas.\n4. **Readiness** - Always know your next cue, entrance, or responsibility.\n5. **Safety First** - Move carefully and obey lighting and equipment boundaries.\n\n## Best Practices\n\n- Post a **Backstage Map** marking prop tables, exit paths, and no-entry zones.\n- Use **dimmed blue lights** for visibility without disrupting the stage.\n- Wear dark, non-reflective clothing to remain unseen.\n- Communicate via headsets or quiet hand signals only.\n- Never block entrances or emergency exits.\n- Stay alert and calm — backstage presence affects onstage performance.\n\n## Cue Coordination\n\n| Role              | Focus                   | Communication                  |\n| ----------------- | ----------------------- | ------------------------------ |\n| **Stage Manager** | Cue calls and timing    | Headset or whisper cue         |\n| **Props Team**    | Placement and reset     | Visual confirmation            |\n| **Tech Crew**     | Lighting and sound sync | Intercom or hand signal        |\n| **Cast Members**  | Entrances and exits     | Listen for cues and stay ready |\n\n## Backstage Etiquette\n\n- Arrive early to familiarize yourself with the space.\n- Avoid personal conversations once the performance begins.\n- Keep food, drinks, and personal items out of sight and away from electrical gear.\n- Respect all team leaders' direction — obedience maintains unity and flow.\n- Pray quietly before each performance and thank God for the opportunity to serve unseen.\n\n## Ministry Focus\n\nServing backstage is a form of humble worship.\nWhen every unseen detail runs smoothly, the message of Christ is heard clearly and without distraction.",
+      "metadata": {},
+      "scriptural_reference": "1 Corinthians 14:40",
+      "related": [
+        "production/safety",
+        "roles/props-team",
+        "roles/stage-manager"
+      ]
+    },
+    {
+      "filename": "collaboration",
+      "id": "production/collaboration",
+      "title": "Collaboration",
+      "category": "Production",
+      "summary": "How production, worship, and ministry teams coordinate effectively.",
+      "tags": [
+        "teamwork",
+        "unity",
+        "departments"
+      ],
+      "audience": [
+        "director",
+        "tech",
+        "worship-team"
+      ],
+      "content": "> “So we, though many, are one body in Christ.” — _Romans 12:5_\n\n# Cross-Team Collaboration\n\n## Purpose\n\nTo ensure all creative ministries move together in harmony, supporting one message and schedule.\n\n### Key Collaborations\n\n| Team                     | Coordination Focus                                     |\n| ------------------------ | ------------------------------------------------------ |\n| **Worship Team**         | Song keys, transitions, mic sharing, rehearsal order   |\n| **Tech Team**            | Cue timing, lighting levels, audio balance             |\n| **Pastoral Staff**       | Theological review, messaging alignment                |\n| **Hospitality & Ushers** | Audience flow, safety, communication during live shows |\n\n### Communication Rhythm\n\n- Weekly coordination meeting (30 min max).\n- Shared rehearsal calendar online.\n- One communication channel for all updates.",
+      "metadata": {}
+    },
+    {
+      "filename": "cues",
+      "id": "production/cues",
+      "title": "Cues",
+      "category": "Production",
+      "summary": "Guidelines for understanding and executing cues during rehearsals and live performances.",
+      "tags": [
+        "timing",
+        "coordination",
+        "communication",
+        "cues",
+        "rehearsal"
+      ],
+      "audience": [
+        "stage-manager",
+        "tech",
+        "director",
+        "volunteer"
+      ],
+      "content": "> “For God is not a God of confusion but of peace.”\n> — _1 Corinthians 14:33_\n\n# Cues and Timing\n\n## Definition\n\nA **cue** is any signal or instruction that triggers an action during a rehearsal or live performance — such as an entrance, lighting change, sound effect, or line delivery.\nCues are the heartbeat of every production, turning individual efforts into a unified expression of worship and storytelling.\n\n## Purpose\n\n- To synchronize all elements — cast, tech, and music — in precise timing.\n- To prevent confusion and ensure safety backstage and on stage.\n- To maintain consistent rhythm and pacing that supports the story's emotional flow.\n- To cultivate discipline and attentiveness as acts of worship.\n\n## Core Principles\n\n1. **Clarity** - Every cue must be understood and documented before execution.\n2. **Consistency** - Practice cues the same way every time; avoid improvisation.\n3. **Confirmation** - Respond to cues only when received; never anticipate.\n4. **Calm Execution** - React smoothly, even when changes occur.\n5. **Chain of Command** - Respect cue authority: the Stage Manager or Director is final.\n\n## Cue Types\n\n| Type                | Example                              | Triggered By               |\n| ------------------- | ------------------------------------ | -------------------------- |\n| **Verbal Cue**      | “Lights go up.”                      | Stage Manager or Director  |\n| **Visual Cue**      | Hand signal or nod                   | Tech Lead or Assistant     |\n| **Audio Cue**       | Music start, sound effect            | Sound Tech                 |\n| **Lighting Cue**    | Scene fade or spotlight              | Lighting Operator          |\n| **Performance Cue** | Actor line, movement, or prop action | Performer or Stage Manager |\n\n## Cue Documentation\n\n- Maintain a **Cue Sheet** for every performance, listing:\n  - Cue number (Q1, Q2, etc.)\n  - Trigger (line, sound, motion)\n  - Responsible role\n  - Timing notes or warnings\n- Keep one printed copy at the tech booth and one backstage.\n- Review and update after every full run or tech rehearsal.\n\n## Best Practices\n\n- Rehearse all cues during technical rehearsals, never during live shows for the first time.\n- Confirm headset or communication systems are tested and functional.\n- Count silently when necessary (e.g., “three-beat delay”) for smooth transitions.\n- Maintain a calm, quiet environment backstage to hear cues clearly.\n- Avoid side conversations during live operations.\n- Debrief after each performance to note any timing issues.\n\n## Ministry Focus\n\nCues teach attentiveness — the discipline of listening and responding in unity.\nJust as the Church follows the leading of the Spirit, a team follows the stage manager's voice so that one message is heard, seen, and understood.",
+      "metadata": {},
+      "scriptural_reference": "1 Corinthians 14:33",
+      "related": [
+        "production/backstage",
+        "rehearsal/communication",
+        "roles/stage-manager"
+      ]
+    },
+    {
+      "filename": "lighting",
+      "id": "production/lighting",
+      "title": "Lighting",
+      "category": "Production",
+      "summary": "Guidelines for operating and designing stage lighting that enhances storytelling, visibility, and reverent atmosphere.",
+      "tags": [
+        "lighting",
+        "visibility",
+        "atmosphere",
+        "safety",
+        "cues"
+      ],
+      "audience": [
+        "tech",
+        "lighting-operator",
+        "director"
+      ],
+      "content": "> “When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'”\n> — _John 8:12_\n\n# Lighting Operations\n\n## Purpose\n\nLighting shapes the visual mood of every scene and directs the audience's focus.\nIn ministry settings, light is more than a visual aid — it symbolizes truth, clarity, and the presence of Christ.\nA lighting operator serves by illuminating the story without distracting from it.\n\n## Core Principles\n\n1. **Clarity First** - The audience must always see the message clearly.\n2. **Atmosphere with Restraint** - Use lighting to support emotion, not dominate it.\n3. **Consistency** - Maintain smooth transitions and avoid abrupt changes.\n4. **Safety and Stewardship** - Handle all equipment carefully and follow electrical protocols.\n5. **Collaboration** - Work closely with the Director, Stage Manager, and Tech Team to align cues.\n\n## Lighting Types and Functions\n\n| Type                | Purpose                              | Example                                           |\n| ------------------- | ------------------------------------ | ------------------------------------------------- |\n| **General Wash**    | Overall illumination for visibility  | Congregation scenes or group numbers              |\n| **Spotlight**       | Highlights a focal performer or prop | Monologue or solo                                 |\n| **Accent Lighting** | Enhances mood or focus               | Warm tones for worship, cool tones for reflection |\n| **Backlight**       | Adds depth, defines silhouette       | Angelic appearances, spiritual imagery            |\n| **Blackout / Fade** | Scene transitions                    | Cue for scene change or end of act                |\n\n## Best Practices\n\n- Test every light and dimmer before each rehearsal.\n- Label all cues clearly (e.g., _LQ-1 Fade Up_, _LQ-2 Blue Wash_).\n- Program fades to align with music or dialogue, not abruptly.\n- Never use strobe or extreme brightness without Director approval.\n- Keep spare bulbs and gels organized by color and type.\n- Stay alert to cue calls from the Stage Manager during live events.\n\n## Safety Protocol\n\n- Never adjust lighting instruments while powered.\n- Secure all cables with gaffer's tape to prevent tripping.\n- Use gloves when handling hot fixtures.\n- Check all clamps, safety chains, and ceiling mounts before every show.\n- Keep drinks and liquids away from electrical sources.\n\n## Collaboration & Cues\n\nLighting is inseparable from sound, blocking, and timing.\nCoordinate with:\n\n- **Director:** to match tone and emotion of scenes.\n- **Stage Manager:** for precise cue timing.\n- **Tech Team:** for synchronization with music and effects.\n\n## Ministry Focus\n\nLight carries both practical and spiritual meaning.\nEvery fade, spotlight, and color choice can help reveal the glory of God and guide the audience's attention toward His message.",
+      "metadata": {},
+      "scriptural_reference": "John 8:12",
+      "related": [
+        "production/cues",
+        "production/safety",
+        "roles/tech-team"
+      ]
+    },
+    {
+      "filename": "props",
+      "id": "production/props",
+      "title": "Props",
+      "category": "Production",
+      "summary": "Best practices for managing, organizing, and cueing stage props in rehearsals and live performances.",
+      "tags": [
+        "props",
+        "logistics",
+        "organization",
+        "safety",
+        "cues"
+      ],
+      "audience": [
+        "props-team",
+        "stage-manager",
+        "tech",
+        "director"
+      ],
+      "content": "> “Whoever can be trusted with very little can also be trusted with much.”\n> — _Luke 16:10_\n\n# Props Management\n\n## Purpose\n\nProps bring the world of the story to life and reinforce the realism of every scene.\nProper management ensures that each item appears at the right place and time without distraction, damage, or danger.\nIn ministry, even the smallest item on stage becomes part of the message and should be handled with care and reverence.\n\n## Core Principles\n\n1. **Preparation** - Every prop must be located, labeled, and tested before rehearsals.\n2. **Stewardship** - Treat every item as if it were on loan from God.\n3. **Safety** - Inspect items regularly for sharp edges, breakage, or tripping hazards.\n4. **Simplicity** - Choose props that communicate clearly without cluttering the stage.\n5. **Consistency** - Keep placement, timing, and handling the same for every performance.\n\n## Best Practices\n\n- Maintain a **Props Table** backstage labeled by scene number and prop type.\n- Use **props checklists** before and after each rehearsal.\n- Assign a **Props Captain** or lead responsible for communication with the Director and Stage Manager.\n- Tag fragile or high-value items with colored tape and storage notes.\n- Store consumables (e.g., food, paper, flowers) separately and refresh as needed.\n- Mark all hand props with the performer's initials to prevent confusion.\n\n## Prop Cue Sheet Example\n\n| Cue # | Scene   | Item               | Responsible | Note                              |\n| ----- | ------- | ------------------ | ----------- | --------------------------------- |\n| P1    | Scene 2 | Scroll (Scripture) | John        | Bring from SR table               |\n| P2    | Scene 4 | Lantern            | Props Team  | Light pre-show; hand to Mary DS   |\n| P3    | Scene 6 | Bread Basket       | Sarah       | Place on table CS before blackout |\n\n## Safety & Maintenance\n\n- Never leave props on the floor or blocking exit paths.\n- Clean items regularly and repair broken parts immediately.\n- Avoid real glass, open flame, or heavy metals unless cleared by the Director.\n- Conduct a **final prop inspection** before each show.\n- After final performance, store or donate props neatly for future use.\n\n## Communication Flow\n\n| Role              | Communication Focus                         |\n| ----------------- | ------------------------------------------- |\n| **Director**      | Final approval on prop design and symbolism |\n| **Producer**      | Budget, sourcing, and storage               |\n| **Stage Manager** | Cue coordination and backstage logistics    |\n| **Props Team**    | Maintenance, placement, and resets          |\n\n## Ministry Focus\n\nProps are silent storytellers.\nWhen handled with excellence and purpose, they help reveal the truth of the Gospel without saying a word.",
+      "metadata": {},
+      "scriptural_reference": "Luke 16:10",
+      "related": [
+        "roles/props-team",
+        "production/backstage",
+        "production/safety"
+      ]
+    },
+    {
+      "filename": "safety",
+      "id": "production/safety",
+      "title": "Safety",
+      "category": "Production",
+      "summary": "Basic safety and emergency guidelines for stage environments.",
+      "tags": [
+        "safety",
+        "risk",
+        "emergency"
+      ],
+      "audience": [
+        "tech",
+        "director",
+        "all"
+      ],
+      "content": "> “The prudent see danger and take refuge.” — *Proverbs 27:12*\n\n# Stage & Rehearsal Safety\n\n## General Principles\nSafety is stewardship — protecting people and property entrusted to our care.\n\n### Physical Safety\n- Keep walkways clear of cables, props, and debris.\n- Tape cords securely; use gaffer's tape only.\n- Never climb ladders or rigging alone.\n- Report hazards immediately to the production lead.\n\n### Electrical & Fire\n- Do not overload outlets or daisy-chain power strips.\n- Know the location of fire extinguishers and exits.\n- Turn off equipment before unplugging or moving.\n\n### Emergency Response\n- In any emergency, prioritize people over property.\n- Call 911 when appropriate; notify pastoral staff.\n- Maintain a basic first-aid kit backstage.",
+      "metadata": {}
+    },
+    {
+      "filename": "script",
+      "id": "production/script",
+      "title": "Script",
+      "category": "Production",
+      "summary": "Guidelines for managing and distributing production scripts to ensure clarity, consistency, and coordination across all departments.",
+      "tags": [
+        "script",
+        "version-control",
+        "communication",
+        "documentation",
+        "cues"
+      ],
+      "audience": [
+        "director",
+        "script-writer",
+        "producer",
+        "stage-manager"
+      ],
+      "content": "> “Then the Lord replied: 'Write down the revelation and make it plain on tablets so that a herald may run with it.'”\n> — _Habakkuk 2:2_\n\n# Script Management\n\n## Purpose\n\nThe script is the blueprint of the entire production.\nIt defines the story, pacing, cues, and message — guiding every department from acting and singing to lighting and sound.\nWhen handled properly, it prevents confusion and ensures that every scene supports the unified vision of the Gospel story.\n\n## Core Principles\n\n1. **Accuracy** - The script must always reflect the approved version; outdated copies create confusion.\n2. **Accessibility** - Every performer and team leader should have access to a current copy.\n3. **Alignment** - Any revision must be communicated and logged immediately.\n4. **Anonymity** - Protect sensitive or unfinalized scripts until approved for general distribution.\n5. **Archival Stewardship** - Store past versions for reference and training, not reuse.\n\n## Version Control\n\n- Label each revision clearly:\n  **v1.0** (Initial Draft), **v1.1** (Minor Edits), **v2.0** (Major Revisions).\n- Include a **date and author** at the top of each copy.\n- Keep a **master digital file** stored in a shared drive or document repository.\n- The **Director or Script Writer** should approve all updates before release.\n- Notify the team of changes via the designated communication channel.\n\n## Best Practices\n\n- Distribute digital scripts (PDF or shared document) to prevent version drift.\n- Print only final scripts to reduce waste and confusion.\n- Use **color-coded pages** (e.g., blue for revised, yellow for tech notes).\n- Clearly label **cue points** for lighting, sound, or media actions.\n- Keep separate **Director's Copy** with additional annotations and blocking.\n- During rehearsal, mark adjustments in pencil only; confirm changes later.\n\n## Cross-Department Collaboration\n\n| Department           | Script Interaction               | Notes                                      |\n| -------------------- | -------------------------------- | ------------------------------------------ |\n| **Acting**           | Dialogue, blocking, emotion      | Reference for performance flow             |\n| **Singing**          | Lyrics, transitions, key changes | Integrated with Choral Director notes      |\n| **Tech**             | Lighting and sound cues          | Marked with cue codes (LQ/SQ numbers)      |\n| **Props / Costumes** | Placement and timing             | Use script margins for visual notes        |\n| **Producer**         | Revision approval, distribution  | Oversees version control and notifications |\n\n## Script Distribution Log Example\n\n| Date   | Version | Distributed To     | Notes                   |\n| ------ | ------- | ------------------ | ----------------------- |\n| Jan 10 | v1.0    | Cast & Crew        | First read-through      |\n| Feb 4  | v1.1    | Tech & Stage Teams | Cue alignment update    |\n| Mar 8  | v2.0    | Full Cast          | Final rehearsal edition |\n\n## Ministry Focus\n\nThe written word carries power — just as Scripture communicates God's truth with order and clarity, the script communicates the message of the Gospel through art.\nFaithfulness in the small details of story and structure honors the Author of all truth.",
+      "metadata": {},
+      "scriptural_reference": "Habakkuk 2:2",
+      "related": [
+        "roles/script-writer",
+        "rehearsal/communication",
+        "production/cues"
+      ]
+    },
+    {
+      "filename": "sound",
+      "id": "production/sound",
+      "title": "Sound",
+      "category": "Production",
+      "summary": "Sound and microphone best practices for live church performances.",
+      "tags": [
+        "audio",
+        "microphones",
+        "balance"
+      ],
+      "audience": [
+        "tech",
+        "singer",
+        "director"
+      ],
+      "content": "> “So faith comes from hearing, and hearing through the word of Christ.”\n> — _Romans 10:17_\n\n# Sound and Microphone Guidelines\n\n**Goal:**\nTo ensure clarity, balance, and reverence in every spoken line and song.\n\n## Basics\n\n- Always handle microphones with care; never blow into them.\n- Maintain consistent distance (2-3 inches) when singing or speaking.\n- Avoid tapping or touching cables during live sessions.\n- Coordinate with the sound team before rehearsal begins.\n\n## Choir and Ensemble Notes\n\n- Blend voices rather than compete for volume.\n- Watch the director's cues for dynamics and timing.\n- Remember: clarity of message outweighs musical perfection.",
+      "metadata": {}
+    }
+  ]
+}
