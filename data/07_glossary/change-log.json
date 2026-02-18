@@ -1,0 +1,27 @@
+{
+  "filename": "change-log",
+  "id": "glossary/change-log",
+  "title": "Change Log",
+  "category": "Reference",
+  "summary": "Version history and update log for the Church Stage Performance Knowledge MCP documentation set.",
+  "tags": [
+    "documentation",
+    "versioning",
+    "updates",
+    "history",
+    "maintenance"
+  ],
+  "audience": [
+    "leadership",
+    "documentation-team",
+    "mcp-admin"
+  ],
+  "content": "> “Commit to the Lord whatever you do, and he will establish your plans.”\n> — *Proverbs 16:3*\n\n# Documentation Change Log\n\n## Purpose\nThis change log records updates, revisions, and additions to the Church Stage Performance Knowledge MCP repository.\nIt ensures transparency, accountability, and continuity as the ministry's documentation evolves over time.\n\n## Version History\n\n| Date | Version | Section(s) Updated | Description | Author / Editor |\n|------|----------|--------------------|--------------|-----------------|\n| 2025-11-05 | v1.0 | `/docs/` Initial Release | Created initial structure for all ministry, roles, rehearsal, production, and basics documentation. | ChatGPT + Leadership Review |\n| 2025-11-06 | v1.1 | `/docs/05_production/*` | Added **cues.md**, **lighting.md**, **props.md**, and **script.md** for production workflow coverage. | ChatGPT |\n| 2025-11-07 | v1.2 | `/docs/04_rehearsal/*` | Expanded **schedule.md** with Easter timeline and devotionals for rehearsal integration. | ChatGPT |\n| 2025-11-07 | v1.3 | `/docs/06_ministry/*` | Added full ministry section (**purpose**, **servant-leadership**, **sustainability**, **code-of-conduct**, **church-roles**). | ChatGPT |\n| 2025-11-08 | v1.4 | `/docs/03_basics/*` | Completed **choreography**, **expression**, **projection**, and **stage-directions** foundational entries. | ChatGPT |\n| 2025-11-08 | v1.5 | `/manifest.json` & `/schema.yaml` | Finalized schema and MCP manifest for future server integration. | ChatGPT |\n\n## Planned Updates (v1.6 → v2.0)\n| Planned Date | Section | Focus |\n|---------------|----------|--------|\n| 2025-11-10 | `/docs/02_roles/*` | Add **Stage Manager**, **Technical Director**, and **Costume Team** roles. |\n| 2025-11-15 | `/docs/07_glossary/*` | Add ready-to-print **volunteer handbook** and **calendar templates**. |\n| 2025-12-01 | `/docs/` | Begin **Phase 2 content refinement** with staff and volunteer feedback. |\n| 2026-01-05 | `/manifest.json` | Register MCP resource endpoints for automated retrieval and version queries. |\n\n## Change Management Policy\n- All edits must follow the `/schema.yaml` structure.\n- New or revised documents require review by a **Creative Arts Director** or **Ministry Lead**.\n- Version updates are labeled sequentially (v1.1, v1.2…) and logged here.\n- Major revisions (v2.0, v3.0, etc.) represent significant structural or theological updates.\n- Each edit entry must include author initials and a one-line summary.\n\n## Ministry Focus\nChange is part of faithful stewardship — refining tools so the ministry can serve better each season.\nEvery update represents growth in clarity, unity, and excellence for the glory of God.",
+  "metadata": {},
+  "scriptural_reference": "Proverbs 16:3",
+  "related": [
+    "schema",
+    "manifest",
+    "glossary/feedback"
+  ]
+}

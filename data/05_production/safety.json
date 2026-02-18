@@ -1,0 +1,19 @@
+{
+  "filename": "safety",
+  "id": "production/safety",
+  "title": "Safety",
+  "category": "Production",
+  "summary": "Basic safety and emergency guidelines for stage environments.",
+  "tags": [
+    "safety",
+    "risk",
+    "emergency"
+  ],
+  "audience": [
+    "tech",
+    "director",
+    "all"
+  ],
+  "content": "> “The prudent see danger and take refuge.” — *Proverbs 27:12*\n\n# Stage & Rehearsal Safety\n\n## General Principles\nSafety is stewardship — protecting people and property entrusted to our care.\n\n### Physical Safety\n- Keep walkways clear of cables, props, and debris.\n- Tape cords securely; use gaffer's tape only.\n- Never climb ladders or rigging alone.\n- Report hazards immediately to the production lead.\n\n### Electrical & Fire\n- Do not overload outlets or daisy-chain power strips.\n- Know the location of fire extinguishers and exits.\n- Turn off equipment before unplugging or moving.\n\n### Emergency Response\n- In any emergency, prioritize people over property.\n- Call 911 when appropriate; notify pastoral staff.\n- Maintain a basic first-aid kit backstage.",
+  "metadata": {}
+}

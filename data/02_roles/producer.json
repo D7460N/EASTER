@@ -1,0 +1,26 @@
+{
+  "filename": "producer",
+  "id": "roles/producer",
+  "title": "Producer",
+  "category": "Roles",
+  "summary": "Guidelines for producers overseeing operations, logistics, and resource management for church stage productions.",
+  "tags": [
+    "organization",
+    "logistics",
+    "planning",
+    "stewardship"
+  ],
+  "audience": [
+    "producer",
+    "leadership",
+    "staff"
+  ],
+  "content": "> “Now it is required that those who have been given a trust must prove faithful.”\n> — *1 Corinthians 4:2*\n\n# Producer Role Guide\n\n## Purpose\n\nThe producer ensures that every creative vision is supported by a realistic, organized, and sustainable plan.\nThey manage the operational side of the production — budgets, schedules, communication, and volunteer coordination — allowing the director and cast to focus on ministry and artistry.\n\n## Core Responsibilities\n\n- **Project Planning** - Establish the production calendar, rehearsal schedule, and milestones.\n- **Resource Management** - Track budgets, materials, and technical needs with stewardship and transparency.\n- **Volunteer Coordination** - Ensure each role is filled, equipped, and informed.\n- **Communication Hub** - Serve as the primary link between church leadership, departments, and volunteers.\n- **Risk & Safety Oversight** - Confirm safety checklists, emergency procedures, and compliance with church policies.\n- **Post-Event Review** - Archive documents, collect feedback, and prepare reports for leadership.\n\n## Best Practices\n\n- Keep documentation current — schedules, rosters, and budgets.\n- Create backup plans for key roles, props, and technical elements.\n- Communicate early and often; clarity prevents burnout.\n- Support the director's creative vision while safeguarding the team's capacity.\n- Model calm under pressure and gratitude in every interaction.\n- Treat every logistical task as ministry — service that enables worship.\n\n## Communication Rhythm\n\n| Area | Frequency | Focus |\n|-------|------------|--------|\n| Leadership Sync | Weekly | Budget, scope, resource updates |\n| Department Coordination | Bi-weekly | Cross-team needs and timing |\n| Volunteer Updates | As needed | Reminders, changes, encouragement |\n| Debrief & Archive | Post-production | Feedback and documentation |\n\n## Stewardship Principle\n\nProducers manage details not for control, but for care — ensuring that creative ministry is sustainable, safe, and faithful to the church's calling.",
+  "metadata": {},
+  "scriptural_reference": "1 Corinthians 4:2",
+  "related": [
+    "roles/director",
+    "production/safety",
+    "production/collaboration"
+  ]
+}

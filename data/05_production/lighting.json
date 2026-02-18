@@ -1,0 +1,27 @@
+{
+  "filename": "lighting",
+  "id": "production/lighting",
+  "title": "Lighting",
+  "category": "Production",
+  "summary": "Guidelines for operating and designing stage lighting that enhances storytelling, visibility, and reverent atmosphere.",
+  "tags": [
+    "lighting",
+    "visibility",
+    "atmosphere",
+    "safety",
+    "cues"
+  ],
+  "audience": [
+    "tech",
+    "lighting-operator",
+    "director"
+  ],
+  "content": "> “When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'”\n> — _John 8:12_\n\n# Lighting Operations\n\n## Purpose\n\nLighting shapes the visual mood of every scene and directs the audience's focus.\nIn ministry settings, light is more than a visual aid — it symbolizes truth, clarity, and the presence of Christ.\nA lighting operator serves by illuminating the story without distracting from it.\n\n## Core Principles\n\n1. **Clarity First** - The audience must always see the message clearly.\n2. **Atmosphere with Restraint** - Use lighting to support emotion, not dominate it.\n3. **Consistency** - Maintain smooth transitions and avoid abrupt changes.\n4. **Safety and Stewardship** - Handle all equipment carefully and follow electrical protocols.\n5. **Collaboration** - Work closely with the Director, Stage Manager, and Tech Team to align cues.\n\n## Lighting Types and Functions\n\n| Type                | Purpose                              | Example                                           |\n| ------------------- | ------------------------------------ | ------------------------------------------------- |\n| **General Wash**    | Overall illumination for visibility  | Congregation scenes or group numbers              |\n| **Spotlight**       | Highlights a focal performer or prop | Monologue or solo                                 |\n| **Accent Lighting** | Enhances mood or focus               | Warm tones for worship, cool tones for reflection |\n| **Backlight**       | Adds depth, defines silhouette       | Angelic appearances, spiritual imagery            |\n| **Blackout / Fade** | Scene transitions                    | Cue for scene change or end of act                |\n\n## Best Practices\n\n- Test every light and dimmer before each rehearsal.\n- Label all cues clearly (e.g., _LQ-1 Fade Up_, _LQ-2 Blue Wash_).\n- Program fades to align with music or dialogue, not abruptly.\n- Never use strobe or extreme brightness without Director approval.\n- Keep spare bulbs and gels organized by color and type.\n- Stay alert to cue calls from the Stage Manager during live events.\n\n## Safety Protocol\n\n- Never adjust lighting instruments while powered.\n- Secure all cables with gaffer's tape to prevent tripping.\n- Use gloves when handling hot fixtures.\n- Check all clamps, safety chains, and ceiling mounts before every show.\n- Keep drinks and liquids away from electrical sources.\n\n## Collaboration & Cues\n\nLighting is inseparable from sound, blocking, and timing.\nCoordinate with:\n\n- **Director:** to match tone and emotion of scenes.\n- **Stage Manager:** for precise cue timing.\n- **Tech Team:** for synchronization with music and effects.\n\n## Ministry Focus\n\nLight carries both practical and spiritual meaning.\nEvery fade, spotlight, and color choice can help reveal the glory of God and guide the audience's attention toward His message.",
+  "metadata": {},
+  "scriptural_reference": "John 8:12",
+  "related": [
+    "production/cues",
+    "production/safety",
+    "roles/tech-team"
+  ]
+}

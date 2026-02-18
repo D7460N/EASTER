@@ -155,11 +155,20 @@ def process_category(category_folder, category_info):
     
     documents = []
     
+    # Create output subdirectory mirroring docs structure
+    category_output_dir = OUTPUT_DIR / category_folder
+    category_output_dir.mkdir(exist_ok=True)
+    
     # Process all .md files
     for md_file in sorted(folder_path.glob("*.md")):
         doc = process_markdown_file(md_file, category_info)
         if doc:  # Skip None results (e.g., index files)
             documents.append(doc)
+            
+            # Write individual JSON file
+            individual_file = category_output_dir / f"{md_file.stem}.json"
+            with open(individual_file, 'w', encoding='utf-8') as f:
+                json.dump(doc, f, indent=2, ensure_ascii=False)
     
     # Build category JSON structure
     category_data = {
@@ -230,6 +239,7 @@ def main():
     categories_data = []
     
     # Process each category
+    total_individual_files = 0
     for folder_name, category_info in CATEGORY_MAP.items():
         print(f"\n📁 Processing: {category_info['name']}...")
         category_data = process_category(folder_name, category_info)
@@ -242,8 +252,10 @@ def main():
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(category_data, f, indent=2, ensure_ascii=False)
             
-            print(f"   ✓ Generated: {output_file.name}")
-            print(f"   ✓ Documents: {category_data['document_count']}")
+            print(f"   ✓ Generated category file: {output_file.name}")
+            print(f"   ✓ Generated individual files: {category_data['document_count']}")
+            print(f"   ✓ Location: {OUTPUT_DIR / folder_name}/")
+            total_individual_files += category_data['document_count']
     
     # Generate master index
     print(f"\n📋 Generating master index...")
@@ -260,6 +272,8 @@ def main():
     print("✨ Generation Complete!")
     print(f"   Categories: {master_index['statistics']['total_categories']}")
     print(f"   Documents: {master_index['statistics']['total_documents']}")
+    print(f"   Category JSON files: {master_index['statistics']['total_categories']}")
+    print(f"   Individual JSON files: {total_individual_files}")
     print(f"   Tags: {len(master_index['statistics']['total_tags'])}")
     print(f"\n📂 JSON files available in: {OUTPUT_DIR}")
 

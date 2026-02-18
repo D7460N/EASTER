@@ -1,0 +1,27 @@
+{
+  "filename": "tech_team",
+  "id": "roles/tech_team",
+  "title": "Tech_Team",
+  "category": "Roles",
+  "summary": "Responsibilities and best practices for the technical production team serving in church stage performances.",
+  "tags": [
+    "technology",
+    "production",
+    "audio",
+    "lighting",
+    "service"
+  ],
+  "audience": [
+    "tech",
+    "volunteer",
+    "leadership"
+  ],
+  "content": "> “If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ.”\n> — *1 Peter 4:11*\n\n\n# Tech Team Role Guide\n\n## Purpose\n\nThe technical team ensures that every word, note, and visual element is delivered with clarity and reverence.\nTheir work may be behind the scenes, but it makes the message visible and audible to everyone who attends.\nTechnical ministry is both craftsmanship and worship — excellence offered to God through skill and reliability.\n\n## Core Responsibilities\n\n- **Audio Operations** - Manage microphones, soundboard, and monitors; balance levels for clarity and comfort.\n- **Lighting & Visuals** - Program cues, maintain focus and brightness, and support the story visually.\n- **Media Support** - Operate slides, video playback, and graphics in sync with cues.\n- **System Stewardship** - Maintain equipment, cables, batteries, and storage with care.\n- **Rehearsal Integration** - Attend key rehearsals to learn cues and test timing.\n- **Safety Awareness** - Follow electrical and stage safety guidelines at all times.\n\n## Best Practices\n\n- Arrive early to power up and test all equipment before rehearsal.\n- Keep cables neatly coiled and labeled.\n- Communicate immediately if any issue arises during live performance.\n- Label and store all gear in designated areas after use.\n- Create redundant backups for essential media and cues.\n- Treat every action — even setting up a mic — as an act of worship.\n\n## Communication Rhythm\n\n| Timing | Focus | Responsibility |\n|---------|--------|----------------|\n| Pre-Rehearsal | Equipment check, test run | Sound/Lighting Lead |\n| During Rehearsal | Cue testing, adjustment | All tech volunteers |\n| Performance | Live monitoring and issue response | Assigned operator |\n| Post-Event | Power-down, data backup, maintenance | Tech Lead |\n\n## Ministry Focus\n\nTechnical service enables the Gospel to be heard and seen clearly.\nThrough unseen diligence and excellence, the tech team glorifies God and serves both the performers and the congregation.",
+  "metadata": {},
+  "scriptural_reference": "1 Peter 4:11",
+  "related": [
+    "production/sound",
+    "production/safety",
+    "production/collaboration"
+  ]
+}

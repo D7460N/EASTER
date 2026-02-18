@@ -1,0 +1,28 @@
+{
+  "filename": "script",
+  "id": "production/script",
+  "title": "Script",
+  "category": "Production",
+  "summary": "Guidelines for managing and distributing production scripts to ensure clarity, consistency, and coordination across all departments.",
+  "tags": [
+    "script",
+    "version-control",
+    "communication",
+    "documentation",
+    "cues"
+  ],
+  "audience": [
+    "director",
+    "script-writer",
+    "producer",
+    "stage-manager"
+  ],
+  "content": "> “Then the Lord replied: 'Write down the revelation and make it plain on tablets so that a herald may run with it.'”\n> — _Habakkuk 2:2_\n\n# Script Management\n\n## Purpose\n\nThe script is the blueprint of the entire production.\nIt defines the story, pacing, cues, and message — guiding every department from acting and singing to lighting and sound.\nWhen handled properly, it prevents confusion and ensures that every scene supports the unified vision of the Gospel story.\n\n## Core Principles\n\n1. **Accuracy** - The script must always reflect the approved version; outdated copies create confusion.\n2. **Accessibility** - Every performer and team leader should have access to a current copy.\n3. **Alignment** - Any revision must be communicated and logged immediately.\n4. **Anonymity** - Protect sensitive or unfinalized scripts until approved for general distribution.\n5. **Archival Stewardship** - Store past versions for reference and training, not reuse.\n\n## Version Control\n\n- Label each revision clearly:\n  **v1.0** (Initial Draft), **v1.1** (Minor Edits), **v2.0** (Major Revisions).\n- Include a **date and author** at the top of each copy.\n- Keep a **master digital file** stored in a shared drive or document repository.\n- The **Director or Script Writer** should approve all updates before release.\n- Notify the team of changes via the designated communication channel.\n\n## Best Practices\n\n- Distribute digital scripts (PDF or shared document) to prevent version drift.\n- Print only final scripts to reduce waste and confusion.\n- Use **color-coded pages** (e.g., blue for revised, yellow for tech notes).\n- Clearly label **cue points** for lighting, sound, or media actions.\n- Keep separate **Director's Copy** with additional annotations and blocking.\n- During rehearsal, mark adjustments in pencil only; confirm changes later.\n\n## Cross-Department Collaboration\n\n| Department           | Script Interaction               | Notes                                      |\n| -------------------- | -------------------------------- | ------------------------------------------ |\n| **Acting**           | Dialogue, blocking, emotion      | Reference for performance flow             |\n| **Singing**          | Lyrics, transitions, key changes | Integrated with Choral Director notes      |\n| **Tech**             | Lighting and sound cues          | Marked with cue codes (LQ/SQ numbers)      |\n| **Props / Costumes** | Placement and timing             | Use script margins for visual notes        |\n| **Producer**         | Revision approval, distribution  | Oversees version control and notifications |\n\n## Script Distribution Log Example\n\n| Date   | Version | Distributed To     | Notes                   |\n| ------ | ------- | ------------------ | ----------------------- |\n| Jan 10 | v1.0    | Cast & Crew        | First read-through      |\n| Feb 4  | v1.1    | Tech & Stage Teams | Cue alignment update    |\n| Mar 8  | v2.0    | Full Cast          | Final rehearsal edition |\n\n## Ministry Focus\n\nThe written word carries power — just as Scripture communicates God's truth with order and clarity, the script communicates the message of the Gospel through art.\nFaithfulness in the small details of story and structure honors the Author of all truth.",
+  "metadata": {},
+  "scriptural_reference": "Habakkuk 2:2",
+  "related": [
+    "roles/script-writer",
+    "rehearsal/communication",
+    "production/cues"
+  ]
+}
