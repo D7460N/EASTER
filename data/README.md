@@ -24,6 +24,21 @@ Each category has its own JSON file with complete content:
 | `ministry.json` | Ministry & Leadership | 🙏 | Theology, servant leadership, sustainability |
 | `glossary.json` | Reference & Glossary | 🧾 | Checklists, templates, feedback forms |
 
+### Individual Document Files
+Each document also has its own JSON file, organized in subdirectories mirroring the `/docs` structure:
+
+| Directory | Files | Example |
+|-----------|-------|---------|
+| `01_introduction/` | 3 files | `vision.json`, `leadership-brief.json` |
+| `02_roles/` | 9 files | `actors.json`, `director.json` |
+| `03_basics/` | 5 files | `blocking.json`, `projection.json` |
+| `04_rehearsal/` | 5 files | `etiquette.json`, `schedule.json` |
+| `05_production/` | 8 files | `lighting.json`, `sound.json` |
+| `06_ministry/` | 5 files | `purpose.json`, `servant-leadership.json` |
+| `07_glossary/` | 4 files | `checklists.json`, `templates.json` |
+
+**Total: 39 individual JSON files** - Each contains complete document metadata and content, ready for direct API consumption.
+
 ## 📋 JSON Structure
 
 ### Master Index (`index.json`)
@@ -87,6 +102,21 @@ Each category has its own JSON file with complete content:
 }
 ```
 
+### Individual Document Files (e.g., `01_introduction/vision.json`)
+```json
+{
+  "filename": "vision",
+  "id": "intro/vision",
+  "title": "Vision",
+  "category": "Introduction",
+  "summary": "Purpose and vision behind church stage productions.",
+  "tags": ["purpose", "ministry", "overview"],
+  "audience": ["leadership", "volunteers"],
+  "content": "... full markdown content ...",
+  "metadata": {}
+}
+```
+
 ## 🔑 Key Fields
 
 ### Document Object
@@ -135,6 +165,42 @@ fetch('/data/introduction.json')
       console.log(`- ${doc.title}: ${doc.summary}`);
     });
   });
+```
+
+### Loading an Individual Document
+```javascript
+// Fetch a specific document directly
+fetch('/data/01_introduction/vision.json')
+  .then(res => res.json())
+  .then(doc => {
+    console.log(`Title: ${doc.title}`);
+    console.log(`Summary: ${doc.summary}`);
+    console.log(`Content: ${doc.content}`);
+    
+    // Render markdown content
+    document.getElementById('content').innerHTML = marked(doc.content);
+  });
+```
+
+### Dynamic Document Loading (e.g., via oninput)
+```javascript
+// Load document based on user selection
+function loadDocument(category, filename) {
+  fetch(`/data/${category}/${filename}.json`)
+    .then(res => res.json())
+    .then(doc => {
+      // Update UI with document content
+      document.getElementById('title').textContent = doc.title;
+      document.getElementById('summary').textContent = doc.summary;
+      document.getElementById('content').innerHTML = marked(doc.content);
+    });
+}
+
+// Example: triggered by input event
+document.querySelector('select').oninput = (e) => {
+  const [category, filename] = e.target.value.split('/');
+  loadDocument(category, filename);
+};
 ```
 
 ### Searching by Tag
