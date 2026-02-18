@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Generate static JSON files from markdown documentation.
-Extracts YAML front matter and content to create structured JSON files
-organized by category for easy UI consumption.
+Extracts YAML front matter and converts markdown content to HTML.
+Creates structured JSON files organized by category for easy UI consumption.
 """
 
 import os
@@ -11,6 +11,7 @@ import yaml
 import re
 from pathlib import Path
 from datetime import datetime
+from markdown_it import MarkdownIt
 
 # Base paths
 BASE_DIR = Path(__file__).parent.parent
@@ -63,6 +64,9 @@ CATEGORY_MAP = {
     }
 }
 
+# Initialize markdown renderer
+md = MarkdownIt()
+
 
 def extract_frontmatter_and_content(file_path):
     """Extract YAML front matter and markdown content from a file."""
@@ -110,6 +114,9 @@ def process_markdown_file(file_path, category_info):
     if filename == "index":
         return None
     
+    # Convert markdown content to HTML
+    html_content = md.render(content)
+    
     # Build the document object
     doc = {
         "filename": filename,
@@ -119,7 +126,7 @@ def process_markdown_file(file_path, category_info):
         "summary": frontmatter.get("summary", ""),
         "tags": frontmatter.get("tags", []),
         "audience": frontmatter.get("audience", []),
-        "content": content,
+        "content": html_content,
         "metadata": {}
     }
     

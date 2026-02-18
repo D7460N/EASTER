@@ -86,7 +86,7 @@ Each document also has its own JSON file, organized in subdirectories mirroring 
       "summary": "Purpose and vision behind church stage productions.",
       "tags": ["purpose", "ministry", "overview"],
       "audience": ["leadership", "volunteers"],
-      "content": "... full markdown content ...",
+      "content": "<blockquote>\n<p>\"Whatever you do, work heartily...\"</p>\n</blockquote>\n<h1>Vision and Purpose</h1>\n<p>Every performance we create is a ministry...</p>",
       "scriptural_reference": "Colossians 3:23",
       "scripture_quote": {
         "text": "Whatever you do, work heartily...",
@@ -112,7 +112,7 @@ Each document also has its own JSON file, organized in subdirectories mirroring 
   "summary": "Purpose and vision behind church stage productions.",
   "tags": ["purpose", "ministry", "overview"],
   "audience": ["leadership", "volunteers"],
-  "content": "... full markdown content ...",
+  "content": "<blockquote>\n<p>\"Whatever you do, work heartily...\"</p>\n</blockquote>\n<h1>Vision and Purpose</h1>\n<p>Every performance we create is a ministry...</p>",
   "metadata": {}
 }
 ```
@@ -127,7 +127,7 @@ Each document also has its own JSON file, organized in subdirectories mirroring 
 - **`summary`** - One-sentence description
 - **`tags`** - Array of keywords for filtering/searching
 - **`audience`** - Target audience (director, actor, tech, etc.)
-- **`content`** - Full markdown content (after YAML front matter)
+- **`content`** - HTML content converted from markdown
 - **`scriptural_reference`** - Bible reference (if applicable)
 - **`scripture_quote`** - Extracted opening quote with text and reference
 - **`related`** - Array of related document IDs
@@ -177,8 +177,8 @@ fetch('/data/01_introduction/vision.json')
     console.log(`Summary: ${doc.summary}`);
     console.log(`Content: ${doc.content}`);
     
-    // Render markdown content
-    document.getElementById('content').innerHTML = marked(doc.content);
+    // Content is already HTML - just insert it
+    document.getElementById('content').innerHTML = doc.content;
   });
 ```
 
@@ -189,10 +189,10 @@ function loadDocument(category, filename) {
   fetch(`/data/${category}/${filename}.json`)
     .then(res => res.json())
     .then(doc => {
-      // Update UI with document content
+      // Update UI with document content (already HTML)
       document.getElementById('title').textContent = doc.title;
       document.getElementById('summary').textContent = doc.summary;
-      document.getElementById('content').innerHTML = marked(doc.content);
+      document.getElementById('content').innerHTML = doc.content;
     });
 }
 
