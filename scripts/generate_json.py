@@ -114,8 +114,8 @@ def process_markdown_file(file_path, category_info):
     if filename == "index":
         return None
     
-    # Convert markdown content to HTML
-    html_content = md.render(content)
+    # Convert markdown content to HTML and remove newlines
+    html_content = md.render(content).replace('\n', '')
     
     # Build the document object
     doc = {
