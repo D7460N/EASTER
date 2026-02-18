@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en-us">
+
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="author" content="D7460N" />
+		<meta name="description" content="EASTER - Church Stage Performance Documentation" />
+		<meta name="robots" content="index, archive" />
+		<meta name="color-scheme" content="dark light" />
+		<link rel="canonical" href="https://d7460n.github.io/EASTER/" />
+		<link rel="icon" type="image/svg+xml" href="./assets/images/brand/logo.svg" />
+		<link rel="stylesheet" type="text/css" href="./assets/css/layout.css" />
+		<link rel="manifest" href="./manifest.json" />
+		<title>EASTER Knowledge Base</title>
+		<script type="module" src="./assets/js/app.js"></script>
+	</head>
+
+	<body>
+		<app-container>
+			<header>
+				<app-logo>🎭 EASTER Knowledge Base</app-logo>
+				<app-tagline></app-tagline>
+			</header>
+			<nav>
+				<label>
+					Introduction
+					<input type="radio" aria-hidden="true" name="nav" value="introduction" checked>
+				</label>
+				<label>
+					Roles
+					<input type="radio" aria-hidden="true" name="nav" value="roles">
+				</label>
+				<label>
+					Basics
+					<input type="radio" aria-hidden="true" name="nav" value="basics">
+				</label>
+				<label>
+					Rehearsal
+					<input type="radio" aria-hidden="true" name="nav" value="rehearsal">
+				</label>
+				<label>
+					Production
+					<input type="radio" aria-hidden="true" name="nav" value="production">
+				</label>
+				<label>
+					Ministry
+					<input type="radio" aria-hidden="true" name="nav" value="ministry">
+				</label>
+				<label>
+					Glossary
+					<input type="radio" aria-hidden="true" name="nav" value="glossary">
+				</label>
+			</nav>
+			<main>
+				<article>
+					<section>
+						<app-category-icon></app-category-icon>
+						<app-category-name></app-category-name>
+						<app-category-description></app-category-description>
+					</section>
+					<section>
+						<app-document-list>
+							<ol></ol>
+						</app-document-list>
+					</section>
+				</article>
+			</main>
+			<aside>
+				<app-document-detail>
+					<app-document-title></app-document-title>
+					<app-document-category></app-document-category>
+					<app-document-summary></app-document-summary>
+					<app-document-content></app-document-content>
+					<app-document-tags>
+						<ol></ol>
+					</app-document-tags>
+					<app-document-audience>
+						<ol></ol>
+					</app-document-audience>
+				</app-document-detail>
+			</aside>
+			<footer>
+				<app-copy>&copy; 2024 EASTER Pageant Ministry</app-copy>
+			</footer>
+		</app-container>
+	</body>
+
+</html>
