@@ -64,8 +64,8 @@ CATEGORY_MAP = {
     }
 }
 
-# Initialize markdown renderer
-md = MarkdownIt()
+# Initialize markdown renderer with table support
+md = MarkdownIt().enable('table')
 
 
 def extract_frontmatter_and_content(file_path):
