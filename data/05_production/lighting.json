@@ -1,0 +1,27 @@
+{
+  "filename": "lighting",
+  "id": "production/lighting",
+  "title": "Lighting",
+  "category": "Production",
+  "summary": "Guidelines for operating and designing stage lighting that enhances storytelling, visibility, and reverent atmosphere.",
+  "tags": [
+    "lighting",
+    "visibility",
+    "atmosphere",
+    "safety",
+    "cues"
+  ],
+  "audience": [
+    "tech",
+    "lighting-operator",
+    "director"
+  ],
+  "content": "<blockquote><p>“When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'”— <em>John 8:12</em></p></blockquote><h1>Lighting Operations</h1><h2>Purpose</h2><p>Lighting shapes the visual mood of every scene and directs the audience's focus.In ministry settings, light is more than a visual aid — it symbolizes truth, clarity, and the presence of Christ.A lighting operator serves by illuminating the story without distracting from it.</p><h2>Core Principles</h2><ol><li><strong>Clarity First</strong> - The audience must always see the message clearly.</li><li><strong>Atmosphere with Restraint</strong> - Use lighting to support emotion, not dominate it.</li><li><strong>Consistency</strong> - Maintain smooth transitions and avoid abrupt changes.</li><li><strong>Safety and Stewardship</strong> - Handle all equipment carefully and follow electrical protocols.</li><li><strong>Collaboration</strong> - Work closely with the Director, Stage Manager, and Tech Team to align cues.</li></ol><h2>Lighting Types and Functions</h2><table><thead><tr><th>Type</th><th>Purpose</th><th>Example</th></tr></thead><tbody><tr><td><strong>General Wash</strong></td><td>Overall illumination for visibility</td><td>Congregation scenes or group numbers</td></tr><tr><td><strong>Spotlight</strong></td><td>Highlights a focal performer or prop</td><td>Monologue or solo</td></tr><tr><td><strong>Accent Lighting</strong></td><td>Enhances mood or focus</td><td>Warm tones for worship, cool tones for reflection</td></tr><tr><td><strong>Backlight</strong></td><td>Adds depth, defines silhouette</td><td>Angelic appearances, spiritual imagery</td></tr><tr><td><strong>Blackout / Fade</strong></td><td>Scene transitions</td><td>Cue for scene change or end of act</td></tr></tbody></table><h2>Best Practices</h2><ul><li>Test every light and dimmer before each rehearsal.</li><li>Label all cues clearly (e.g., <em>LQ-1 Fade Up</em>, <em>LQ-2 Blue Wash</em>).</li><li>Program fades to align with music or dialogue, not abruptly.</li><li>Never use strobe or extreme brightness without Director approval.</li><li>Keep spare bulbs and gels organized by color and type.</li><li>Stay alert to cue calls from the Stage Manager during live events.</li></ul><h2>Safety Protocol</h2><ul><li>Never adjust lighting instruments while powered.</li><li>Secure all cables with gaffer's tape to prevent tripping.</li><li>Use gloves when handling hot fixtures.</li><li>Check all clamps, safety chains, and ceiling mounts before every show.</li><li>Keep drinks and liquids away from electrical sources.</li></ul><h2>Collaboration &amp; Cues</h2><p>Lighting is inseparable from sound, blocking, and timing.Coordinate with:</p><ul><li><strong>Director:</strong> to match tone and emotion of scenes.</li><li><strong>Stage Manager:</strong> for precise cue timing.</li><li><strong>Tech Team:</strong> for synchronization with music and effects.</li></ul><h2>Ministry Focus</h2><p>Light carries both practical and spiritual meaning.Every fade, spotlight, and color choice can help reveal the glory of God and guide the audience's attention toward His message.</p>",
+  "metadata": {},
+  "scriptural_reference": "John 8:12",
+  "related": [
+    "production/cues",
+    "production/safety",
+    "roles/tech-team"
+  ]
+}

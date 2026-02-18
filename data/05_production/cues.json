@@ -1,0 +1,28 @@
+{
+  "filename": "cues",
+  "id": "production/cues",
+  "title": "Cues",
+  "category": "Production",
+  "summary": "Guidelines for understanding and executing cues during rehearsals and live performances.",
+  "tags": [
+    "timing",
+    "coordination",
+    "communication",
+    "cues",
+    "rehearsal"
+  ],
+  "audience": [
+    "stage-manager",
+    "tech",
+    "director",
+    "volunteer"
+  ],
+  "content": "<blockquote><p>“For God is not a God of confusion but of peace.”— <em>1 Corinthians 14:33</em></p></blockquote><h1>Cues and Timing</h1><h2>Definition</h2><p>A <strong>cue</strong> is any signal or instruction that triggers an action during a rehearsal or live performance — such as an entrance, lighting change, sound effect, or line delivery.Cues are the heartbeat of every production, turning individual efforts into a unified expression of worship and storytelling.</p><h2>Purpose</h2><ul><li>To synchronize all elements — cast, tech, and music — in precise timing.</li><li>To prevent confusion and ensure safety backstage and on stage.</li><li>To maintain consistent rhythm and pacing that supports the story's emotional flow.</li><li>To cultivate discipline and attentiveness as acts of worship.</li></ul><h2>Core Principles</h2><ol><li><strong>Clarity</strong> - Every cue must be understood and documented before execution.</li><li><strong>Consistency</strong> - Practice cues the same way every time; avoid improvisation.</li><li><strong>Confirmation</strong> - Respond to cues only when received; never anticipate.</li><li><strong>Calm Execution</strong> - React smoothly, even when changes occur.</li><li><strong>Chain of Command</strong> - Respect cue authority: the Stage Manager or Director is final.</li></ol><h2>Cue Types</h2><table><thead><tr><th>Type</th><th>Example</th><th>Triggered By</th></tr></thead><tbody><tr><td><strong>Verbal Cue</strong></td><td>“Lights go up.”</td><td>Stage Manager or Director</td></tr><tr><td><strong>Visual Cue</strong></td><td>Hand signal or nod</td><td>Tech Lead or Assistant</td></tr><tr><td><strong>Audio Cue</strong></td><td>Music start, sound effect</td><td>Sound Tech</td></tr><tr><td><strong>Lighting Cue</strong></td><td>Scene fade or spotlight</td><td>Lighting Operator</td></tr><tr><td><strong>Performance Cue</strong></td><td>Actor line, movement, or prop action</td><td>Performer or Stage Manager</td></tr></tbody></table><h2>Cue Documentation</h2><ul><li>Maintain a <strong>Cue Sheet</strong> for every performance, listing:<ul><li>Cue number (Q1, Q2, etc.)</li><li>Trigger (line, sound, motion)</li><li>Responsible role</li><li>Timing notes or warnings</li></ul></li><li>Keep one printed copy at the tech booth and one backstage.</li><li>Review and update after every full run or tech rehearsal.</li></ul><h2>Best Practices</h2><ul><li>Rehearse all cues during technical rehearsals, never during live shows for the first time.</li><li>Confirm headset or communication systems are tested and functional.</li><li>Count silently when necessary (e.g., “three-beat delay”) for smooth transitions.</li><li>Maintain a calm, quiet environment backstage to hear cues clearly.</li><li>Avoid side conversations during live operations.</li><li>Debrief after each performance to note any timing issues.</li></ul><h2>Ministry Focus</h2><p>Cues teach attentiveness — the discipline of listening and responding in unity.Just as the Church follows the leading of the Spirit, a team follows the stage manager's voice so that one message is heard, seen, and understood.</p>",
+  "metadata": {},
+  "scriptural_reference": "1 Corinthians 14:33",
+  "related": [
+    "production/backstage",
+    "rehearsal/communication",
+    "roles/stage-manager"
+  ]
+}

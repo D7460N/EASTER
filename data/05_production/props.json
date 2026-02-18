@@ -1,0 +1,28 @@
+{
+  "filename": "props",
+  "id": "production/props",
+  "title": "Props",
+  "category": "Production",
+  "summary": "Best practices for managing, organizing, and cueing stage props in rehearsals and live performances.",
+  "tags": [
+    "props",
+    "logistics",
+    "organization",
+    "safety",
+    "cues"
+  ],
+  "audience": [
+    "props-team",
+    "stage-manager",
+    "tech",
+    "director"
+  ],
+  "content": "<blockquote><p>“Whoever can be trusted with very little can also be trusted with much.”— <em>Luke 16:10</em></p></blockquote><h1>Props Management</h1><h2>Purpose</h2><p>Props bring the world of the story to life and reinforce the realism of every scene.Proper management ensures that each item appears at the right place and time without distraction, damage, or danger.In ministry, even the smallest item on stage becomes part of the message and should be handled with care and reverence.</p><h2>Core Principles</h2><ol><li><strong>Preparation</strong> - Every prop must be located, labeled, and tested before rehearsals.</li><li><strong>Stewardship</strong> - Treat every item as if it were on loan from God.</li><li><strong>Safety</strong> - Inspect items regularly for sharp edges, breakage, or tripping hazards.</li><li><strong>Simplicity</strong> - Choose props that communicate clearly without cluttering the stage.</li><li><strong>Consistency</strong> - Keep placement, timing, and handling the same for every performance.</li></ol><h2>Best Practices</h2><ul><li>Maintain a <strong>Props Table</strong> backstage labeled by scene number and prop type.</li><li>Use <strong>props checklists</strong> before and after each rehearsal.</li><li>Assign a <strong>Props Captain</strong> or lead responsible for communication with the Director and Stage Manager.</li><li>Tag fragile or high-value items with colored tape and storage notes.</li><li>Store consumables (e.g., food, paper, flowers) separately and refresh as needed.</li><li>Mark all hand props with the performer's initials to prevent confusion.</li></ul><h2>Prop Cue Sheet Example</h2><table><thead><tr><th>Cue #</th><th>Scene</th><th>Item</th><th>Responsible</th><th>Note</th></tr></thead><tbody><tr><td>P1</td><td>Scene 2</td><td>Scroll (Scripture)</td><td>John</td><td>Bring from SR table</td></tr><tr><td>P2</td><td>Scene 4</td><td>Lantern</td><td>Props Team</td><td>Light pre-show; hand to Mary DS</td></tr><tr><td>P3</td><td>Scene 6</td><td>Bread Basket</td><td>Sarah</td><td>Place on table CS before blackout</td></tr></tbody></table><h2>Safety &amp; Maintenance</h2><ul><li>Never leave props on the floor or blocking exit paths.</li><li>Clean items regularly and repair broken parts immediately.</li><li>Avoid real glass, open flame, or heavy metals unless cleared by the Director.</li><li>Conduct a <strong>final prop inspection</strong> before each show.</li><li>After final performance, store or donate props neatly for future use.</li></ul><h2>Communication Flow</h2><table><thead><tr><th>Role</th><th>Communication Focus</th></tr></thead><tbody><tr><td><strong>Director</strong></td><td>Final approval on prop design and symbolism</td></tr><tr><td><strong>Producer</strong></td><td>Budget, sourcing, and storage</td></tr><tr><td><strong>Stage Manager</strong></td><td>Cue coordination and backstage logistics</td></tr><tr><td><strong>Props Team</strong></td><td>Maintenance, placement, and resets</td></tr></tbody></table><h2>Ministry Focus</h2><p>Props are silent storytellers.When handled with excellence and purpose, they help reveal the truth of the Gospel without saying a word.</p>",
+  "metadata": {},
+  "scriptural_reference": "Luke 16:10",
+  "related": [
+    "roles/props-team",
+    "production/backstage",
+    "production/safety"
+  ]
+}

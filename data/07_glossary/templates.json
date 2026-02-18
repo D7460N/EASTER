@@ -1,0 +1,17 @@
+{
+  "filename": "templates",
+  "id": "glossary/templates",
+  "title": "Templates",
+  "category": "Reference",
+  "summary": "Common templates for communication, devotionals, and evaluations.",
+  "tags": [
+    "templates",
+    "forms"
+  ],
+  "audience": [
+    "director",
+    "admin"
+  ],
+  "content": "<h1>Templates</h1><h3>1. Rehearsal Reminder Email</h3><p>Subject: [Reminder] Rehearsal - {{Date}} at {{Time}}</p><p>Hi team,</p><p>Quick reminder that rehearsal for {{Scene/Song}} is tonight at {{Location}}.Please arrive 10 minutes early for prayer and setup.</p><p>Thank you for serving with excellence!</p><p>— {{Director Name}}</p><h3>2. Post-Production Feedback Form</h3><p>What went well?</p><p>What could improve next time?</p><p>Did you feel spiritually encouraged?</p><p>Any safety or technical concerns?</p><h3>3. Devotional Template</h3><p>Theme: <strong><strong><strong><strong><strong><strong>____</strong></strong></strong></strong></strong></strong>Scripture: <strong><strong><strong><strong><strong>____</strong></strong></strong></strong></strong>Reflection (3 sentences): <strong><strong><strong><strong><strong>____</strong></strong></strong></strong></strong>Prayer: <strong><strong><strong><strong><strong><strong>___</strong></strong></strong></strong></strong></strong></p>",
+  "metadata": {}
+}

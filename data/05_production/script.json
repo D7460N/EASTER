@@ -1,0 +1,28 @@
+{
+  "filename": "script",
+  "id": "production/script",
+  "title": "Script",
+  "category": "Production",
+  "summary": "Guidelines for managing and distributing production scripts to ensure clarity, consistency, and coordination across all departments.",
+  "tags": [
+    "script",
+    "version-control",
+    "communication",
+    "documentation",
+    "cues"
+  ],
+  "audience": [
+    "director",
+    "script-writer",
+    "producer",
+    "stage-manager"
+  ],
+  "content": "<blockquote><p>“Then the Lord replied: 'Write down the revelation and make it plain on tablets so that a herald may run with it.'”— <em>Habakkuk 2:2</em></p></blockquote><h1>Script Management</h1><h2>Purpose</h2><p>The script is the blueprint of the entire production.It defines the story, pacing, cues, and message — guiding every department from acting and singing to lighting and sound.When handled properly, it prevents confusion and ensures that every scene supports the unified vision of the Gospel story.</p><h2>Core Principles</h2><ol><li><strong>Accuracy</strong> - The script must always reflect the approved version; outdated copies create confusion.</li><li><strong>Accessibility</strong> - Every performer and team leader should have access to a current copy.</li><li><strong>Alignment</strong> - Any revision must be communicated and logged immediately.</li><li><strong>Anonymity</strong> - Protect sensitive or unfinalized scripts until approved for general distribution.</li><li><strong>Archival Stewardship</strong> - Store past versions for reference and training, not reuse.</li></ol><h2>Version Control</h2><ul><li>Label each revision clearly:<strong>v1.0</strong> (Initial Draft), <strong>v1.1</strong> (Minor Edits), <strong>v2.0</strong> (Major Revisions).</li><li>Include a <strong>date and author</strong> at the top of each copy.</li><li>Keep a <strong>master digital file</strong> stored in a shared drive or document repository.</li><li>The <strong>Director or Script Writer</strong> should approve all updates before release.</li><li>Notify the team of changes via the designated communication channel.</li></ul><h2>Best Practices</h2><ul><li>Distribute digital scripts (PDF or shared document) to prevent version drift.</li><li>Print only final scripts to reduce waste and confusion.</li><li>Use <strong>color-coded pages</strong> (e.g., blue for revised, yellow for tech notes).</li><li>Clearly label <strong>cue points</strong> for lighting, sound, or media actions.</li><li>Keep separate <strong>Director's Copy</strong> with additional annotations and blocking.</li><li>During rehearsal, mark adjustments in pencil only; confirm changes later.</li></ul><h2>Cross-Department Collaboration</h2><table><thead><tr><th>Department</th><th>Script Interaction</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Acting</strong></td><td>Dialogue, blocking, emotion</td><td>Reference for performance flow</td></tr><tr><td><strong>Singing</strong></td><td>Lyrics, transitions, key changes</td><td>Integrated with Choral Director notes</td></tr><tr><td><strong>Tech</strong></td><td>Lighting and sound cues</td><td>Marked with cue codes (LQ/SQ numbers)</td></tr><tr><td><strong>Props / Costumes</strong></td><td>Placement and timing</td><td>Use script margins for visual notes</td></tr><tr><td><strong>Producer</strong></td><td>Revision approval, distribution</td><td>Oversees version control and notifications</td></tr></tbody></table><h2>Script Distribution Log Example</h2><table><thead><tr><th>Date</th><th>Version</th><th>Distributed To</th><th>Notes</th></tr></thead><tbody><tr><td>Jan 10</td><td>v1.0</td><td>Cast &amp; Crew</td><td>First read-through</td></tr><tr><td>Feb 4</td><td>v1.1</td><td>Tech &amp; Stage Teams</td><td>Cue alignment update</td></tr><tr><td>Mar 8</td><td>v2.0</td><td>Full Cast</td><td>Final rehearsal edition</td></tr></tbody></table><h2>Ministry Focus</h2><p>The written word carries power — just as Scripture communicates God's truth with order and clarity, the script communicates the message of the Gospel through art.Faithfulness in the small details of story and structure honors the Author of all truth.</p>",
+  "metadata": {},
+  "scriptural_reference": "Habakkuk 2:2",
+  "related": [
+    "roles/script-writer",
+    "rehearsal/communication",
+    "production/cues"
+  ]
+}

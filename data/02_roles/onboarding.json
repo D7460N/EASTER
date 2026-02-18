@@ -1,0 +1,18 @@
+{
+  "filename": "onboarding",
+  "id": "roles/onboarding",
+  "title": "Onboarding",
+  "category": "Roles",
+  "summary": "Step-by-step path for new volunteers joining the stage ministry.",
+  "tags": [
+    "training",
+    "onboarding",
+    "volunteers"
+  ],
+  "audience": [
+    "new-volunteer",
+    "director"
+  ],
+  "content": "<blockquote><p>“Let all things be done for building up.” — <em>1 Corinthians 14:26</em></p></blockquote><h1>Volunteer Onboarding Path</h1><h2>Step 1 - Introduction</h2><p>Attend a brief orientation covering our mission, expectations, and ministry philosophy.</p><h2>Step 2 - Application</h2><p>Complete the volunteer form and background check (if applicable). Indicate preferred areas: acting, singing, tech, support.</p><h2>Step 3 - Interview &amp; Placement</h2><p>Meet with the director or ministry lead to discuss gifting, availability, and comfort level.</p><h2>Step 4 - Training</h2><p>Participate in at least one training rehearsal or tech workshop before serving.</p><h2>Step 5 - Serve &amp; Reflect</h2><p>Begin rehearsals, stay teachable, and share feedback after each production cycle.</p>",
+  "metadata": {}
+}

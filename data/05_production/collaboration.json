@@ -1,0 +1,19 @@
+{
+  "filename": "collaboration",
+  "id": "production/collaboration",
+  "title": "Collaboration",
+  "category": "Production",
+  "summary": "How production, worship, and ministry teams coordinate effectively.",
+  "tags": [
+    "teamwork",
+    "unity",
+    "departments"
+  ],
+  "audience": [
+    "director",
+    "tech",
+    "worship-team"
+  ],
+  "content": "<blockquote><p>“So we, though many, are one body in Christ.” — <em>Romans 12:5</em></p></blockquote><h1>Cross-Team Collaboration</h1><h2>Purpose</h2><p>To ensure all creative ministries move together in harmony, supporting one message and schedule.</p><h3>Key Collaborations</h3><table><thead><tr><th>Team</th><th>Coordination Focus</th></tr></thead><tbody><tr><td><strong>Worship Team</strong></td><td>Song keys, transitions, mic sharing, rehearsal order</td></tr><tr><td><strong>Tech Team</strong></td><td>Cue timing, lighting levels, audio balance</td></tr><tr><td><strong>Pastoral Staff</strong></td><td>Theological review, messaging alignment</td></tr><tr><td><strong>Hospitality &amp; Ushers</strong></td><td>Audience flow, safety, communication during live shows</td></tr></tbody></table><h3>Communication Rhythm</h3><ul><li>Weekly coordination meeting (30 min max).</li><li>Shared rehearsal calendar online.</li><li>One communication channel for all updates.</li></ul>",
+  "metadata": {}
+}

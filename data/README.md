@@ -24,6 +24,21 @@ Each category has its own JSON file with complete content:
 | `ministry.json` | Ministry & Leadership | 🙏 | Theology, servant leadership, sustainability |
 | `glossary.json` | Reference & Glossary | 🧾 | Checklists, templates, feedback forms |
 
+### Individual Document Files
+Each document also has its own JSON file, organized in subdirectories mirroring the `/docs` structure:
+
+| Directory | Files | Example |
+|-----------|-------|---------|
+| `01_introduction/` | 3 files | `vision.json`, `leadership-brief.json` |
+| `02_roles/` | 9 files | `actors.json`, `director.json` |
+| `03_basics/` | 5 files | `blocking.json`, `projection.json` |
+| `04_rehearsal/` | 5 files | `etiquette.json`, `schedule.json` |
+| `05_production/` | 8 files | `lighting.json`, `sound.json` |
+| `06_ministry/` | 5 files | `purpose.json`, `servant-leadership.json` |
+| `07_glossary/` | 4 files | `checklists.json`, `templates.json` |
+
+**Total: 39 individual JSON files** - Each contains complete document metadata and content, ready for direct API consumption.
+
 ## 📋 JSON Structure
 
 ### Master Index (`index.json`)
@@ -71,7 +86,7 @@ Each category has its own JSON file with complete content:
       "summary": "Purpose and vision behind church stage productions.",
       "tags": ["purpose", "ministry", "overview"],
       "audience": ["leadership", "volunteers"],
-      "content": "... full markdown content ...",
+      "content": "<blockquote>\n<p>\"Whatever you do, work heartily...\"</p>\n</blockquote>\n<h1>Vision and Purpose</h1>\n<p>Every performance we create is a ministry...</p>",
       "scriptural_reference": "Colossians 3:23",
       "scripture_quote": {
         "text": "Whatever you do, work heartily...",
@@ -87,6 +102,21 @@ Each category has its own JSON file with complete content:
 }
 ```
 
+### Individual Document Files (e.g., `01_introduction/vision.json`)
+```json
+{
+  "filename": "vision",
+  "id": "intro/vision",
+  "title": "Vision",
+  "category": "Introduction",
+  "summary": "Purpose and vision behind church stage productions.",
+  "tags": ["purpose", "ministry", "overview"],
+  "audience": ["leadership", "volunteers"],
+  "content": "<blockquote>\n<p>\"Whatever you do, work heartily...\"</p>\n</blockquote>\n<h1>Vision and Purpose</h1>\n<p>Every performance we create is a ministry...</p>",
+  "metadata": {}
+}
+```
+
 ## 🔑 Key Fields
 
 ### Document Object
@@ -97,7 +127,7 @@ Each category has its own JSON file with complete content:
 - **`summary`** - One-sentence description
 - **`tags`** - Array of keywords for filtering/searching
 - **`audience`** - Target audience (director, actor, tech, etc.)
-- **`content`** - Full markdown content (after YAML front matter)
+- **`content`** - HTML content converted from markdown
 - **`scriptural_reference`** - Bible reference (if applicable)
 - **`scripture_quote`** - Extracted opening quote with text and reference
 - **`related`** - Array of related document IDs
@@ -135,6 +165,42 @@ fetch('/data/introduction.json')
       console.log(`- ${doc.title}: ${doc.summary}`);
     });
   });
+```
+
+### Loading an Individual Document
+```javascript
+// Fetch a specific document directly
+fetch('/data/01_introduction/vision.json')
+  .then(res => res.json())
+  .then(doc => {
+    console.log(`Title: ${doc.title}`);
+    console.log(`Summary: ${doc.summary}`);
+    console.log(`Content: ${doc.content}`);
+    
+    // Content is already HTML - just insert it
+    document.getElementById('content').innerHTML = doc.content;
+  });
+```
+
+### Dynamic Document Loading (e.g., via oninput)
+```javascript
+// Load document based on user selection
+function loadDocument(category, filename) {
+  fetch(`/data/${category}/${filename}.json`)
+    .then(res => res.json())
+    .then(doc => {
+      // Update UI with document content (already HTML)
+      document.getElementById('title').textContent = doc.title;
+      document.getElementById('summary').textContent = doc.summary;
+      document.getElementById('content').innerHTML = doc.content;
+    });
+}
+
+// Example: triggered by input event
+document.querySelector('select').oninput = (e) => {
+  const [category, filename] = e.target.value.split('/');
+  loadDocument(category, filename);
+};
 ```
 
 ### Searching by Tag

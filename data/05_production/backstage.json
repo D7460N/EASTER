@@ -1,0 +1,27 @@
+{
+  "filename": "backstage",
+  "id": "production/backstage",
+  "title": "Backstage",
+  "category": "Production",
+  "summary": "Guidelines for backstage operations that support smooth, safe, and reverent performances.",
+  "tags": [
+    "backstage",
+    "organization",
+    "cues",
+    "safety",
+    "discipline"
+  ],
+  "audience": [
+    "stage-manager",
+    "tech",
+    "volunteer"
+  ],
+  "content": "<blockquote><p>“But everything should be done in a fitting and orderly way.”— <em>1 Corinthians 14:40</em></p></blockquote><h1>Backstage Operations</h1><h2>Purpose</h2><p>The backstage area is the unseen heart of the production — where coordination, discipline, and service make the visible story possible.A well-managed backstage honors God through order and humility, allowing the message on stage to shine without distraction or delay.</p><h2>Core Principles</h2><ol><li><strong>Reverence</strong> - Treat backstage as an extension of worship, not casual space.</li><li><strong>Silence &amp; Focus</strong> - Maintain quiet; whispers and footsteps carry to the audience.</li><li><strong>Orderliness</strong> - Keep props, cables, and costumes in their designated areas.</li><li><strong>Readiness</strong> - Always know your next cue, entrance, or responsibility.</li><li><strong>Safety First</strong> - Move carefully and obey lighting and equipment boundaries.</li></ol><h2>Best Practices</h2><ul><li>Post a <strong>Backstage Map</strong> marking prop tables, exit paths, and no-entry zones.</li><li>Use <strong>dimmed blue lights</strong> for visibility without disrupting the stage.</li><li>Wear dark, non-reflective clothing to remain unseen.</li><li>Communicate via headsets or quiet hand signals only.</li><li>Never block entrances or emergency exits.</li><li>Stay alert and calm — backstage presence affects onstage performance.</li></ul><h2>Cue Coordination</h2><table><thead><tr><th>Role</th><th>Focus</th><th>Communication</th></tr></thead><tbody><tr><td><strong>Stage Manager</strong></td><td>Cue calls and timing</td><td>Headset or whisper cue</td></tr><tr><td><strong>Props Team</strong></td><td>Placement and reset</td><td>Visual confirmation</td></tr><tr><td><strong>Tech Crew</strong></td><td>Lighting and sound sync</td><td>Intercom or hand signal</td></tr><tr><td><strong>Cast Members</strong></td><td>Entrances and exits</td><td>Listen for cues and stay ready</td></tr></tbody></table><h2>Backstage Etiquette</h2><ul><li>Arrive early to familiarize yourself with the space.</li><li>Avoid personal conversations once the performance begins.</li><li>Keep food, drinks, and personal items out of sight and away from electrical gear.</li><li>Respect all team leaders' direction — obedience maintains unity and flow.</li><li>Pray quietly before each performance and thank God for the opportunity to serve unseen.</li></ul><h2>Ministry Focus</h2><p>Serving backstage is a form of humble worship.When every unseen detail runs smoothly, the message of Christ is heard clearly and without distraction.</p>",
+  "metadata": {},
+  "scriptural_reference": "1 Corinthians 14:40",
+  "related": [
+    "production/safety",
+    "roles/props-team",
+    "roles/stage-manager"
+  ]
+}

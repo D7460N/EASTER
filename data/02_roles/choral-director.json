@@ -1,0 +1,27 @@
+{
+  "filename": "choral-director",
+  "id": "roles/choral-director",
+  "title": "Choral Director",
+  "category": "Roles",
+  "summary": "Responsibilities and ministry practices for leading choir and vocal ensembles in church stage productions.",
+  "tags": [
+    "music",
+    "choir",
+    "leadership",
+    "worship",
+    "harmony"
+  ],
+  "audience": [
+    "choral-director",
+    "singer",
+    "leadership"
+  ],
+  "content": "<blockquote><p>“Sing to Him a new song; play skillfully, and shout for joy.”— <em>Psalm 33:3</em></p></blockquote><h1>Choral Director Role Guide</h1><h2>Purpose</h2><p>The choral director leads vocal teams in worshipful, unified expression.Their role bridges musical precision and ministry purpose — cultivating voices that proclaim truth beautifully and in harmony with one another.</p><h2>Core Responsibilities</h2><ul><li><strong>Musical Direction</strong> - Select, arrange, and rehearse choral pieces in collaboration with the Director and Worship Pastor.</li><li><strong>Vocal Training</strong> - Teach correct breathing, diction, blending, and tone balance suited to each ensemble's range and ability.</li><li><strong>Spiritual Leadership</strong> - Encourage prayerful preparation and remind singers that ministry comes before performance.</li><li><strong>Rehearsal Management</strong> - Plan efficient rehearsals with warm-ups, sectionals, and run-throughs.</li><li><strong>Collaboration</strong> - Coordinate with the sound and tech teams for microphone placement, dynamics, and cue timing.</li><li><strong>Performance Readiness</strong> - Ensure every member knows their entrances, harmonies, and stage posture.</li></ul><h2>Best Practices</h2><ul><li>Choose music that fits the congregation's voice and the message of the production.</li><li>Foster a culture of encouragement over criticism.</li><li>Teach singers to listen to one another, not compete for volume.</li><li>Balance vocal excellence with heart posture — ministry always outweighs performance.</li><li>Keep communication open with the Director, Producer, and Tech Team.</li><li>Record rehearsals for singers to review harmonies and timing.</li></ul><h2>Rehearsal Rhythm</h2><table><thead><tr><th>Phase</th><th>Focus</th><th>Typical Duration</th></tr></thead><tbody><tr><td>Warm-Up</td><td>Breathing, pitch matching, unison blend</td><td>10 minutes</td></tr><tr><td>Sectionals</td><td>Sopranos/Altos/Tenors/Basses</td><td>20-30 minutes</td></tr><tr><td>Full Ensemble</td><td>Balance, expression, cue integration</td><td>30-40 minutes</td></tr><tr><td>Devotional &amp; Prayer</td><td>Scripture reflection, gratitude</td><td>5-10 minutes</td></tr></tbody></table><h2>Heart of the Ministry</h2><p>The choir's purpose is to proclaim God's Word through song.The choral director models humility, discipline, and joy — leading by example both musically and spiritually.</p>",
+  "metadata": {},
+  "scriptural_reference": "Psalm 33:3",
+  "related": [
+    "roles/singers",
+    "production/sound",
+    "ministry/servant-leadership"
+  ]
+}

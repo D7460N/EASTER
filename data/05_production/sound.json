@@ -1,0 +1,19 @@
+{
+  "filename": "sound",
+  "id": "production/sound",
+  "title": "Sound",
+  "category": "Production",
+  "summary": "Sound and microphone best practices for live church performances.",
+  "tags": [
+    "audio",
+    "microphones",
+    "balance"
+  ],
+  "audience": [
+    "tech",
+    "singer",
+    "director"
+  ],
+  "content": "<blockquote><p>“So faith comes from hearing, and hearing through the word of Christ.”— <em>Romans 10:17</em></p></blockquote><h1>Sound and Microphone Guidelines</h1><p><strong>Goal:</strong>To ensure clarity, balance, and reverence in every spoken line and song.</p><h2>Basics</h2><ul><li>Always handle microphones with care; never blow into them.</li><li>Maintain consistent distance (2-3 inches) when singing or speaking.</li><li>Avoid tapping or touching cables during live sessions.</li><li>Coordinate with the sound team before rehearsal begins.</li></ul><h2>Choir and Ensemble Notes</h2><ul><li>Blend voices rather than compete for volume.</li><li>Watch the director's cues for dynamics and timing.</li><li>Remember: clarity of message outweighs musical perfection.</li></ul>",
+  "metadata": {}
+}

@@ -1,0 +1,27 @@
+{
+  "filename": "props-team",
+  "id": "roles/props-team",
+  "title": "Props Team",
+  "category": "Roles",
+  "summary": "Guidelines for the props team responsible for preparing, managing, and caring for all physical elements used in church stage productions.",
+  "tags": [
+    "props",
+    "stagecraft",
+    "organization",
+    "stewardship",
+    "backstage"
+  ],
+  "audience": [
+    "volunteer",
+    "tech",
+    "director"
+  ],
+  "content": "<blockquote><p>“But everything should be done in a fitting and orderly way.”— <em>1 Corinthians 14:40</em></p></blockquote><h1>Props Team Role Guide</h1><h2>Purpose</h2><p>The props team supports storytelling by managing every physical item that appears on stage.Their work ensures scenes flow smoothly, transitions happen safely, and the environment reflects both excellence and reverence.Orderly props management prevents distraction and protects the focus of worship.</p><h2>Core Responsibilities</h2><ul><li><strong>Preparation</strong> - Source, build, or borrow all props listed in the script or director's notes.</li><li><strong>Organization</strong> - Label and store items in clearly marked bins or tables backstage.</li><li><strong>Rehearsal Support</strong> - Attend run-throughs to learn cues, timing, and placement.</li><li><strong>Placement &amp; Reset</strong> - Position props before each scene and reset them after each performance.</li><li><strong>Stewardship</strong> - Care for all materials, return borrowed items, and avoid waste.</li><li><strong>Safety</strong> - Ensure all items are secure, clean, and safe to handle on stage.</li></ul><h2>Best Practices</h2><ul><li>Keep a <strong>Props Inventory Sheet</strong> with location, description, and owner of each item.</li><li>Use consistent labeling (e.g., colored tape or printed tags).</li><li>Test movable items (doors, tables, containers) before every show.</li><li>Store fragile or hazardous items separately.</li><li>Communicate promptly with the Director or Stage Manager about any missing or damaged props.</li><li>After the final performance, pack and store items for future use.</li></ul><h2>Communication Rhythm</h2><table><thead><tr><th>Timing</th><th>Focus</th><th>Responsibility</th></tr></thead><tbody><tr><td>Pre-Rehearsal</td><td>Inventory check, prop sourcing</td><td>Props Lead</td></tr><tr><td>During Rehearsal</td><td>Cue timing, placement practice</td><td>Props Assistants</td></tr><tr><td>Performance</td><td>Scene resets and backstage flow</td><td>All team members</td></tr><tr><td>Post-Event</td><td>Clean-up, documentation, returns</td><td>Props Lead</td></tr></tbody></table><h2>Ministry Focus</h2><p>Every object on stage should serve the message of Christ.When handled with care and purpose, props become silent witnesses that support the story of redemption.</p>",
+  "metadata": {},
+  "scriptural_reference": "1 Corinthians 14:40",
+  "related": [
+    "production/safety",
+    "production/backstage",
+    "roles/director"
+  ]
+}
