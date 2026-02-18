@@ -1,8 +1,6 @@
 // D7460N Architecture - Data transport only, no UI logic
 // All UI state management is handled by CSS
 
-import { loadCategory } from './pipeline/load-category.js';
-
 // Initialize navigation on page load
 document.addEventListener('DOMContentLoaded', () => {
 	// Load initial category (Introduction is checked by default)
